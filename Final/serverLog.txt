@@ -1,0 +1,3272 @@
+Client connected from 192.168.1.48:55222
+Received order 1: x=-1, y=-4
+Client connected. Current number of clients: 1
+Received order 2: x=-3, y=-9
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:55256
+Received order 3: x=1, y=-8
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:55262
+Client connected from 192.168.1.48:55220
+Received order 4: x=2, y=3
+Client connected from 192.168.1.48:55244
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:55278
+Received order 5: x=-3, y=4
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:55294
+Client connected from 192.168.1.48:55310
+Received order 7: x=3, y=-2
+Client connected. Current number of clients: 3
+Received order 6: x=-3, y=7
+Client connected. Current number of clients: 2
+Client connected from 192.168.1.48:55324
+Received order 8: x=-1, y=6
+Client connected. Current number of clients: 4
+Client connected from 192.168.1.48:55334
+Received order 9: x=3, y=-7
+Client connected. Current number of clients: 4
+Received order 10: x=3, y=-8
+Client connected. Current number of clients: 5
+Order 4 is ready for delivery.
+Order 4 delivered to (2, 3).
+Order 10 is ready for delivery.
+Order 10 delivered to (3, -8).
+Order 2 is ready for delivery.
+Order 2 delivered to (-3, -9).
+Order 3 is ready for delivery.
+Order 3 delivered to (1, -8).
+Order 8 is ready for delivery.
+Order 8 delivered to (-1, 6).
+Order 1 is ready for delivery.
+Order 1 delivered to (-1, -4).
+Order 7 is ready for delivery.
+Order 7 delivered to (3, -2).
+Order 9 is ready for delivery.
+Order 9 delivered to (3, -7).
+Order 5 is ready for delivery.
+Order 5 delivered to (-3, 4).
+Order 6 is ready for delivery.
+Order 6 delivered to (-3, 7).
+Server terminated.
+Client connected from 192.168.1.48:53308
+Received order 1: x=-5, y=-8
+Client connected. Current number of clients: 1
+Received order 2: x=3, y=-8
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:53310
+Client connected from 192.168.1.48:53300
+Received order 3: x=2, y=-10
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:53302
+Received order 4: x=-1, y=-4
+Client connected. Current number of clients: 0
+Received order 5: x=2, y=2
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:53314
+Client connected from 192.168.1.48:53342
+Received order 6: x=-1, y=5
+Client connected. Current number of clients: 1
+Received order 7: x=-4, y=-4
+Client connected. Current number of clients: 2
+Client connected from 192.168.1.48:53330
+Received order 8: x=4, y=2
+Client connected. Current number of clients: 3
+Client connected from 192.168.1.48:53348
+Client connected from 192.168.1.48:53352
+Received order 9: x=-3, y=5
+Client connected. Current number of clients: 4
+Client connected from 192.168.1.48:53368
+Received order 10: x=1, y=-8
+Client connected. Current number of clients: 5
+Order 4 is ready for delivery.
+Order 4 delivered to (-1, -4).
+Order 10 is ready for delivery.
+Order 10 delivered to (1, -8).
+Order 1 is ready for delivery.
+Order 1 delivered to (-5, -8).
+Order 3 is ready for delivery.
+Order 3 delivered to (2, -10).
+Order 9 is ready for delivery.
+Order 9 delivered to (-3, 5).
+Order 2 is ready for delivery.
+Order 2 delivered to (3, -8).
+Order 5 is ready for delivery.
+Order 5 delivered to (2, 2).
+Order 8 is ready for delivery.
+Order 8 delivered to (4, 2).
+Order 6 is ready for delivery.
+Order 6 delivered to (-1, 5).
+Order 7 is ready for delivery.
+Order 7 delivered to (-4, -4).
+Client connected from 192.168.1.48:50672
+Received order 11: x=3, y=1
+Client connected. Current number of clients: 2
+Received order 12: x=-4, y=7
+Client connected. Current number of clients: 2
+Client connected from 192.168.1.48:50654
+Client connected from 192.168.1.48:50678
+Received order 13: x=-2, y=-7
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:50688
+Received order 14: x=3, y=8
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:50670
+Received order 15: x=1, y=-8
+Client connected. Current number of clients: 2
+Received order 16: x=2, y=9
+Client connected. Current number of clients: 3
+Client connected from 192.168.1.48:50690
+Client connected from 192.168.1.48:50702
+Received order 17: x=2, y=1
+Client connected. Current number of clients: 2
+Client connected from 192.168.1.48:50710
+Received order 18: x=-5, y=4
+Client connected. Current number of clients: 3
+Client connected from 192.168.1.48:50712
+Received order 19: x=-5, y=-8
+Client connected. Current number of clients: 4
+Client connected from 192.168.1.48:50720
+Received order 20: x=-2, y=-5
+Client connected. Current number of clients: 5
+Order 13 is ready for delivery.
+Order 13 delivered to (-2, -7).
+Order 12 is ready for delivery.
+Order 11 is ready for delivery.
+Order 11 delivered to (3, 1).
+Order 12 delivered to (-4, 7).
+Order 20 is ready for delivery.
+Order 20 delivered to (-2, -5).
+Order 19 is ready for delivery.
+Order 19 delivered to (-5, -8).
+Order 15 is ready for delivery.
+Order 15 delivered to (1, -8).
+Order 18 is ready for delivery.
+Order 16 is ready for delivery.
+Order 16 delivered to (2, 9).
+Order 18 delivered to (-5, 4).
+Order 14 is ready for delivery.
+Order 17 is ready for delivery.
+Order 17 delivered to (2, 1).
+Order 14 delivered to (3, 8).
+Client connected from 192.168.1.48:47450
+Client connected from 192.168.1.48:47462
+Received order 21: x=-4, y=-6
+Client connected. Current number of clients: 0
+Client connected from 192.168.1.48:47478
+Received order 22: x=1, y=5
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:47472
+Received order 23: x=4, y=-7
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:47500
+Received order 25: x=2, y=7
+Client connected. Current number of clients: 3
+Received order 24: x=-4, y=7
+Client connected. Current number of clients: 3
+Client connected from 192.168.1.48:47488
+Received order 26: x=1, y=3
+Client connected. Current number of clients: 3
+Client connected from 192.168.1.48:47518
+Received order 28: x=1, y=3
+Client connected. Current number of clients: 2
+Client connected from 192.168.1.48:47516
+Received order 27: x=-1, y=0
+Client connected. Current number of clients: 3
+Received order 29: x=-3, y=5
+Client connected. Current number of clients: 4
+Client connected from 192.168.1.48:47524
+Client connected from 192.168.1.48:47538
+Received order 30: x=-1, y=-4
+Client connected. Current number of clients: 5
+Received order 31: x=-4, y=8
+Client connected. Current number of clients: 6
+Client connected from 192.168.1.48:47552
+Client connected from 192.168.1.48:47564
+Received order 32: x=-4, y=2
+Client connected. Current number of clients: 7
+Client connected from 192.168.1.48:47610
+Received order 33: x=-3, y=4
+Client connected. Current number of clients: 8
+Client connected from 192.168.1.48:47670
+Received order 34: x=-3, y=1
+Client connected. Current number of clients: 9
+Client connected from 192.168.1.48:48016
+Received order 35: x=0, y=-7
+Client connected. Current number of clients: 10
+Received order 36: x=2, y=0
+Client connected. Current number of clients: 11
+Client connected from 192.168.1.48:47744
+Client connected from 192.168.1.48:47656
+Received order 37: x=1, y=-4
+Client connected. Current number of clients: 12
+Client connected from 192.168.1.48:47600
+Received order 38: x=-2, y=8
+Client connected. Current number of clients: 13
+Client connected from 192.168.1.48:48376
+Received order 39: x=2, y=5
+Client connected. Current number of clients: 14
+Client connected from 192.168.1.48:48342
+Received order 40: x=2, y=-3
+Client connected. Current number of clients: 15
+Client connected from 192.168.1.48:48282
+Received order 41: x=-2, y=3
+Client connected. Current number of clients: 16
+Client connected from 192.168.1.48:47682
+Received order 42: x=-4, y=5
+Client connected. Current number of clients: 17
+Client connected from 192.168.1.48:47616
+Received order 43: x=-1, y=1
+Client connected. Current number of clients: 18
+Client connected from 192.168.1.48:47578
+Received order 44: x=-1, y=-4
+Client connected. Current number of clients: 19
+Client connected from 192.168.1.48:47632
+Received order 45: x=3, y=-1
+Client connected. Current number of clients: 20
+Client connected from 192.168.1.48:47932
+Received order 46: x=0, y=3
+Client connected. Current number of clients: 21
+Client connected from 192.168.1.48:48088
+Received order 47: x=2, y=-7
+Client connected. Current number of clients: 22
+Client connected from 192.168.1.48:47580
+Received order 48: x=-3, y=-3
+Client connected. Current number of clients: 23
+Client connected from 192.168.1.48:48044
+Received order 49: x=-4, y=-10
+Client connected. Current number of clients: 24
+Client connected from 192.168.1.48:47642
+Received order 50: x=-3, y=-8
+Client connected. Current number of clients: 25
+Client connected from 192.168.1.48:48314
+Received order 51: x=0, y=-10
+Client connected. Current number of clients: 26
+Received order 52: x=3, y=-8
+Client connected. Current number of clients: 27
+Client connected from 192.168.1.48:48072
+Client connected from 192.168.1.48:48234
+Received order 53: x=0, y=7
+Client connected. Current number of clients: 28
+Client connected from 192.168.1.48:48148
+Received order 54: x=-1, y=8
+Client connected. Current number of clients: 29
+Client connected from 192.168.1.48:48220
+Received order 55: x=-4, y=-5
+Client connected. Current number of clients: 30
+Client connected from 192.168.1.48:48278
+Received order 56: x=2, y=3
+Client connected. Current number of clients: 31
+Received order 57: x=1, y=2
+Client connected. Current number of clients: 32
+Client connected from 192.168.1.48:48296
+Client connected from 192.168.1.48:47938
+Received order 58: x=0, y=0
+Client connected. Current number of clients: 33
+Client connected from 192.168.1.48:48180
+Received order 59: x=1, y=7
+Client connected. Current number of clients: 34
+Received order 60: x=-4, y=-2
+Client connected. Current number of clients: 35
+Client connected from 192.168.1.48:48002
+Client connected from 192.168.1.48:47732
+Received order 61: x=2, y=-4
+Client connected. Current number of clients: 36
+Received order 62: x=0, y=-8
+Client connected. Current number of clients: 37
+Client connected from 192.168.1.48:48152
+Client connected from 192.168.1.48:48190
+Received order 63: x=-5, y=-4
+Client connected. Current number of clients: 38
+Received order 64: x=-4, y=-2
+Client connected. Current number of clients: 39
+Client connected from 192.168.1.48:47706
+Client connected from 192.168.1.48:47878
+Received order 65: x=-3, y=-7
+Client connected. Current number of clients: 40
+Client connected from 192.168.1.48:48256
+Received order 66: x=2, y=-8
+Client connected. Current number of clients: 41
+Received order 67: x=1, y=9
+Client connected. Current number of clients: 42
+Client connected from 192.168.1.48:48118
+Client connected from 192.168.1.48:47826
+Received order 68: x=-4, y=0
+Client connected. Current number of clients: 43
+Received order 69: x=-4, y=3
+Client connected. Current number of clients: 44
+Client connected from 192.168.1.48:47626
+Client connected from 192.168.1.48:47866
+Received order 70: x=-5, y=-10
+Client connected. Current number of clients: 45
+Received order 71: x=3, y=-6
+Client connected. Current number of clients: 46
+Client connected from 192.168.1.48:48164
+Client connected from 192.168.1.48:47898
+Received order 72: x=-4, y=7
+Client connected. Current number of clients: 47
+Client connected from 192.168.1.48:47796
+Received order 73: x=0, y=-2
+Client connected. Current number of clients: 48
+Client connected from 192.168.1.48:47790
+Received order 74: x=1, y=2
+Client connected. Current number of clients: 49
+Client connected from 192.168.1.48:47602
+Received order 75: x=-2, y=4
+Client connected. Current number of clients: 50
+Client connected from 192.168.1.48:48126
+Received order 76: x=-4, y=5
+Client connected. Current number of clients: 51
+Client connected from 192.168.1.48:48098
+Received order 77: x=0, y=-2
+Client connected. Current number of clients: 52
+Received order 78: x=-5, y=-10
+Client connected. Current number of clients: 53
+Client connected from 192.168.1.48:47980
+Client connected from 192.168.1.48:47850
+Received order 79: x=0, y=2
+Client connected. Current number of clients: 54
+Received order 80: x=1, y=0
+Client connected. Current number of clients: 55
+Client connected from 192.168.1.48:47920
+Client connected from 192.168.1.48:47960
+Received order 81: x=2, y=6
+Client connected. Current number of clients: 56
+Client connected from 192.168.1.48:48360
+Received order 82: x=-1, y=-7
+Client connected. Current number of clients: 57
+Client connected from 192.168.1.48:47664
+Received order 83: x=3, y=3
+Client connected. Current number of clients: 58
+Client connected from 192.168.1.48:47594
+Received order 84: x=4, y=7
+Client connected. Current number of clients: 59
+Received order 85: x=0, y=-3
+Client connected. Current number of clients: 60
+Client connected from 192.168.1.48:47934
+Client connected from 192.168.1.48:47694
+Received order 86: x=-1, y=8
+Client connected. Current number of clients: 61
+Received order 87: x=0, y=2
+Client connected. Current number of clients: 62
+Client connected from 192.168.1.48:47952
+Client connected from 192.168.1.48:47708
+Received order 88: x=0, y=-9
+Client connected. Current number of clients: 63
+Received order 89: x=-3, y=-7
+Client connected. Current number of clients: 64
+Client connected from 192.168.1.48:47972
+Client connected from 192.168.1.48:47716
+Received order 90: x=-4, y=0
+Client connected. Current number of clients: 65
+Client connected from 192.168.1.48:47768
+Received order 91: x=2, y=7
+Client connected. Current number of clients: 66
+Client connected from 192.168.1.48:47776
+Received order 92: x=1, y=-5
+Client connected. Current number of clients: 67
+Client connected from 192.168.1.48:47756
+Received order 93: x=1, y=3
+Client connected. Current number of clients: 68
+Client connected from 192.168.1.48:47838
+Received order 94: x=1, y=-6
+Client connected. Current number of clients: 69
+Client connected from 192.168.1.48:47810
+Received order 95: x=1, y=-5
+Client connected. Current number of clients: 70
+Client connected from 192.168.1.48:48294
+Received order 96: x=-3, y=-2
+Client connected. Current number of clients: 71
+Client connected from 192.168.1.48:48040
+Received order 97: x=3, y=-3
+Client connected. Current number of clients: 72
+Received order 98: x=0, y=-7
+Client connected. Current number of clients: 73
+Client connected from 192.168.1.48:48328
+Client connected from 192.168.1.48:48078
+Received order 99: x=3, y=-4
+Client connected. Current number of clients: 74
+Client connected from 192.168.1.48:47638
+Received order 100: x=1, y=4
+Client connected. Current number of clients: 75
+Received order 101: x=-1, y=8
+Client connected. Current number of clients: 76
+Client connected from 192.168.1.48:47914
+Client connected from 192.168.1.48:48222
+Received order 102: x=-5, y=8
+Client connected. Current number of clients: 77
+Client connected from 192.168.1.48:48028
+Received order 103: x=1, y=-1
+Client connected. Current number of clients: 78
+Received order 104: x=-2, y=3
+Client connected. Current number of clients: 79
+Client connected from 192.168.1.48:48096
+Client connected from 192.168.1.48:47792
+Received order 105: x=4, y=-10
+Client connected. Current number of clients: 80
+Client connected from 192.168.1.48:48170
+Received order 106: x=4, y=-9
+Client connected. Current number of clients: 81
+Client connected from 192.168.1.48:48134
+Received order 107: x=-4, y=-8
+Client connected. Current number of clients: 82
+Client connected from 192.168.1.48:47884
+Received order 108: x=-5, y=1
+Client connected. Current number of clients: 83
+Received order 109: x=1, y=-5
+Client connected. Current number of clients: 84
+Client connected from 192.168.1.48:48056
+Client connected from 192.168.1.48:47858
+Received order 110: x=-3, y=9
+Client connected. Current number of clients: 85
+Client connected from 192.168.1.48:48184
+Received order 111: x=3, y=-4
+Client connected. Current number of clients: 86
+Received order 112: x=1, y=5
+Client connected. Current number of clients: 87
+Client connected from 192.168.1.48:47986
+Client connected from 192.168.1.48:48122
+Received order 113: x=2, y=6
+Client connected. Current number of clients: 88
+Client connected from 192.168.1.48:48206
+Received order 114: x=-3, y=-3
+Client connected. Current number of clients: 89
+Client connected from 192.168.1.48:47870
+Received order 115: x=-3, y=8
+Client connected. Current number of clients: 90
+Received order 116: x=-5, y=-10
+Client connected. Current number of clients: 91
+Client connected from 192.168.1.48:48266
+Client connected from 192.168.1.48:48112
+Received order 117: x=0, y=2
+Client connected. Current number of clients: 92
+Received order 118: x=-3, y=-9
+Client connected. Current number of clients: 93
+Client connected from 192.168.1.48:48248
+Client connected from 192.168.1.48:48348
+Received order 119: x=-5, y=1
+Client connected. Current number of clients: 94
+Client connected from 192.168.1.48:48308
+Received order 120: x=-1, y=7
+Client connected. Current number of clients: 95
+Order 21 is ready for delivery.
+Order 21 delivered to (-4, -6).
+Order 120 is ready for delivery.
+Order 120 delivered to (-1, 7).
+Order 25 is ready for delivery.
+Order 25 delivered to (2, 7).
+Order 24 is ready for delivery.
+Order 24 delivered to (-4, 7).
+Order 22 is ready for delivery.
+Order 22 delivered to (1, 5).
+Order 116 is ready for delivery.
+Order 116 delivered to (-5, -10).
+Order 26 is ready for delivery.
+Order 26 delivered to (1, 3).
+Order 119 is ready for delivery.
+Order 119 delivered to (-5, 1).
+Order 117 is ready for delivery.
+Order 117 delivered to (0, 2).
+Order 118 is ready for delivery.
+Order 118 delivered to (-3, -9).
+Order 114 is ready for delivery.
+Order 114 delivered to (-3, -3).
+Order 113 is ready for delivery.
+Order 113 delivered to (2, 6).
+Order 115 is ready for delivery.
+Order 115 delivered to (-3, 8).
+Order 112 is ready for delivery.
+Order 112 delivered to (1, 5).
+Order 110 is ready for delivery.
+Order 110 delivered to (-3, 9).
+Order 108 is ready for delivery.
+Order 111 is ready for delivery.
+Order 111 delivered to (3, -4).
+Order 108 delivered to (-5, 1).
+Order 109 is ready for delivery.
+Order 107 is ready for delivery.
+Order 109 delivered to (1, -5).
+Order 107 delivered to (-4, -8).
+Order 106 is ready for delivery.
+Order 106 delivered to (4, -9).
+Order 103 is ready for delivery.
+Order 103 delivered to (1, -1).
+Order 104 is ready for delivery.
+Order 104 delivered to (-2, 3).
+Order 105 is ready for delivery.
+Order 105 delivered to (4, -10).
+Order 102 is ready for delivery.
+Order 100 is ready for delivery.
+Order 100 delivered to (1, 4).
+Order 102 delivered to (-5, 8).
+Order 101 is ready for delivery.
+Order 96 is ready for delivery.
+Order 97 is ready for delivery.
+Order 96 delivered to (-3, -2).
+Order 97 delivered to (3, -3).
+Order 101 delivered to (-1, 8).
+Order 99 is ready for delivery.
+Order 99 delivered to (3, -4).
+Order 94 is ready for delivery.
+Order 94 delivered to (1, -6).
+Order 93 is ready for delivery.
+Order 93 delivered to (1, 3).
+Order 92 is ready for delivery.
+Order 92 delivered to (1, -5).
+Order 98 is ready for delivery.
+Order 98 delivered to (0, -7).
+Order 88 is ready for delivery.
+Order 88 delivered to (0, -9).
+Order 95 is ready for delivery.
+Order 95 delivered to (1, -5).
+Order 91 is ready for delivery.
+Order 91 delivered to (2, 7).
+Order 85 is ready for delivery.
+Order 85 delivered to (0, -3).
+Order 89 is ready for delivery.
+Order 89 delivered to (-3, -7).
+Order 87 is ready for delivery.
+Order 84 is ready for delivery.
+Order 87 delivered to (0, 2).
+Order 84 delivered to (4, 7).
+Order 90 is ready for delivery.
+Order 90 delivered to (-4, 0).
+Order 86 is ready for delivery.
+Order 86 delivered to (-1, 8).
+Order 80 is ready for delivery.
+Order 80 delivered to (1, 0).
+Order 81 is ready for delivery.
+Order 81 delivered to (2, 6).
+Order 79 is ready for delivery.
+Order 79 delivered to (0, 2).
+Order 82 is ready for delivery.
+Order 82 delivered to (-1, -7).
+Order 83 is ready for delivery.
+Order 83 delivered to (3, 3).
+Order 76 is ready for delivery.
+Order 74 is ready for delivery.
+Order 76 delivered to (-4, 5).
+Order 74 delivered to (1, 2).
+Order 78 is ready for delivery.
+Order 78 delivered to (-5, -10).
+Order 72 is ready for delivery.
+Order 72 delivered to (-4, 7).
+Order 77 is ready for delivery.
+Order 77 delivered to (0, -2).
+Order 75 is ready for delivery.
+Order 75 delivered to (-2, 4).
+Order 73 is ready for delivery.
+Order 73 delivered to (0, -2).
+Order 70 is ready for delivery.
+Order 70 delivered to (-5, -10).
+Order 66 is ready for delivery.
+Order 66 delivered to (2, -8).
+Order 71 is ready for delivery.
+Order 71 delivered to (3, -6).
+Order 69 is ready for delivery.
+Order 69 delivered to (-4, 3).
+Order 67 is ready for delivery.
+Order 67 delivered to (1, 9).
+Order 65 is ready for delivery.
+Order 65 delivered to (-3, -7).
+Order 68 is ready for delivery.
+Order 68 delivered to (-4, 0).
+Order 63 is ready for delivery.
+Order 63 delivered to (-5, -4).
+Order 64 is ready for delivery.
+Order 64 delivered to (-4, -2).
+Order 62 is ready for delivery.
+Order 62 delivered to (0, -8).
+Order 61 is ready for delivery.
+Order 61 delivered to (2, -4).
+Order 58 is ready for delivery.
+Order 58 delivered to (0, 0).
+Order 60 is ready for delivery.
+Order 60 delivered to (-4, -2).
+Order 59 is ready for delivery.
+Order 59 delivered to (1, 7).
+Order 54 is ready for delivery.
+Order 54 delivered to (-1, 8).
+Order 53 is ready for delivery.
+Order 53 delivered to (0, 7).
+Order 55 is ready for delivery.
+Order 55 delivered to (-4, -5).
+Order 57 is ready for delivery.
+Order 57 delivered to (1, 2).
+Order 56 is ready for delivery.
+Order 56 delivered to (2, 3).
+Order 52 is ready for delivery.
+Order 52 delivered to (3, -8).
+Order 50 is ready for delivery.
+Order 50 delivered to (-3, -8).
+Order 49 is ready for delivery.
+Order 48 is ready for delivery.
+Order 48 delivered to (-3, -3).
+Order 49 delivered to (-4, -10).
+Order 45 is ready for delivery.
+Order 44 is ready for delivery.
+Order 44 delivered to (-1, -4).
+Order 45 delivered to (3, -1).
+Order 51 is ready for delivery.
+Order 51 delivered to (0, -10).
+Order 47 is ready for delivery.
+Order 47 delivered to (2, -7).
+Order 46 is ready for delivery.
+Order 46 delivered to (0, 3).
+Order 41 is ready for delivery.
+Order 41 delivered to (-2, 3).
+Order 42 is ready for delivery.
+Order 42 delivered to (-4, 5).
+Order 43 is ready for delivery.
+Order 43 delivered to (-1, 1).
+Order 40 is ready for delivery.
+Order 40 delivered to (2, -3).
+Order 39 is ready for delivery.
+Order 38 is ready for delivery.
+Order 38 delivered to (-2, 8).
+Order 39 delivered to (2, 5).
+Order 37 is ready for delivery.
+Order 36 is ready for delivery.
+Order 36 delivered to (2, 0).
+Order 37 delivered to (1, -4).
+Order 35 is ready for delivery.
+Order 34 is ready for delivery.
+Order 34 delivered to (-3, 1).
+Order 32 is ready for delivery.
+Order 33 is ready for delivery.
+Order 35 delivered to (0, -7).
+Order 33 delivered to (-3, 4).
+Order 32 delivered to (-4, 2).
+Order 29 is ready for delivery.
+Order 29 delivered to (-3, 5).
+Order 31 is ready for delivery.
+Order 31 delivered to (-4, 8).
+Order 30 is ready for delivery.
+Order 30 delivered to (-1, -4).
+Order 28 is ready for delivery.
+Order 27 is ready for delivery.
+Order 27 delivered to (-1, 0).
+Order 28 delivered to (1, 3).
+Order 23 is ready for delivery.
+Order 23 delivered to (4, -7).
+Server terminated.
+Server terminated.
+Server terminated.
+Server terminated.
+Client connected from 192.168.1.48:36854
+Received order 1: x=0, y=2
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:36876
+Received order 3: x=4, y=-10
+Client connected. Current number of clients: 3
+Received order 2: x=1, y=8
+Client connected. Current number of clients: 3
+Client connected from 192.168.1.48:36886
+Client connected from 192.168.1.48:36856
+Client connected from 192.168.1.48:36896
+Client connected from 192.168.1.48:36892
+Received order 6: x=-4, y=0
+Client connected. Current number of clients: 0
+Received order 4: x=-5, y=1
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:36898
+Received order 5: x=-4, y=7
+Client connected from 192.168.1.48:36902
+Client connected from 192.168.1.48:36910
+Received order 8: x=-2, y=-6
+Client connected. Current number of clients: 2
+Received order 10: x=1, y=3
+Client connected. Current number of clients: 3
+Client connected. Current number of clients: 2
+Client connected from 192.168.1.48:36918
+Received order 7: x=-3, y=9
+Client connected. Current number of clients: 4
+Received order 9: x=1, y=4
+Client connected. Current number of clients: 5
+Order 6 is ready for delivery.
+Order 9 is ready for delivery.
+Order 2 is ready for delivery.
+Order 1 is ready for delivery.
+Order 7 is ready for delivery.
+Order 6 delivered to (-4, 0).
+Order 3 is ready for delivery.
+Order 1 delivered to (0, 2).
+Order 5 is ready for delivery.
+Order 9 delivered to (1, 4).
+Order 10 is ready for delivery.
+Order 4 is ready for delivery.
+Order 10 delivered to (1, 3).
+Order 8 is ready for delivery.
+Order 2 delivered to (1, 8).
+Order 4 delivered to (-5, 1).
+Order 5 delivered to (-4, 7).
+Order 7 delivered to (-3, 9).
+Order 3 delivered to (4, -10).
+Order 8 delivered to (-2, -6).
+Client connected from 192.168.1.48:50000
+Client connected from 192.168.1.48:50002
+Received order 11: x=1, y=-7
+Client connected. Current number of clients: 0
+Received order 12: x=1, y=-9
+Client connected from 192.168.1.48:50024
+Client connected. Current number of clients: 0
+Received order 13: x=-5, y=-5
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:50038
+Received order 14: x=-5, y=-1
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:49998
+Received order 15: x=4, y=6
+Client connected. Current number of clients: 1
+Received order 16: x=0, y=2
+Client connected. Current number of clients: 2
+Client connected from 192.168.1.48:50044
+Client connected from 192.168.1.48:50058
+Received order 17: x=-3, y=-3
+Client connected. Current number of clients: 2
+Client connected from 192.168.1.48:50060
+Received order 18: x=4, y=0
+Client connected. Current number of clients: 3
+Client connected from 192.168.1.48:50066
+Received order 19: x=4, y=3
+Client connected. Current number of clients: 4
+Received order 20: x=-3, y=4
+Client connected. Current number of clients: 5
+Client connected from 192.168.1.48:50070
+Order 13 is ready for delivery.
+Order 11 is ready for delivery.
+Order 12 is ready for delivery.
+Order 20 is ready for delivery.
+Order 19 is ready for delivery.
+Order 16 is ready for delivery.
+Order 18 is ready for delivery.
+Order 14 is ready for delivery.
+Order 17 is ready for delivery.
+Order 13 delivered to (-5, -5).
+Order 15 is ready for delivery.
+Order 16 delivered to (0, 2).
+Order 20 delivered to (-3, 4).
+Order 19 delivered to (4, 3).
+Order 11 delivered to (1, -7).
+Order 17 delivered to (-3, -3).
+Order 12 delivered to (1, -9).
+Order 14 delivered to (-5, -1).
+Order 18 delivered to (4, 0).
+Order 15 delivered to (4, 6).
+Server terminated.
+Client connected from 192.168.1.48:42610
+Received order 1: x=3, y=4
+Client connected. Current number of clients: 1
+Received order 2: x=0, y=7
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:42628
+Client connected from 192.168.1.48:42630
+Received order 3: x=2, y=4
+Client connected. Current number of clients: 1
+Received order 4: x=4, y=1
+Client connected. Current number of clients: 2
+Client connected from 192.168.1.48:42608
+Client connected from 192.168.1.48:42646
+Client connected from 192.168.1.48:42654
+Received order 5: x=4, y=1
+Client connected. Current number of clients: 1
+Received order 7: x=-2, y=5
+Client connected. Current number of clients: 2
+Client connected from 192.168.1.48:42668
+Received order 6: x=3, y=-10
+Client connected. Current number of clients: 3
+Received order 8: x=3, y=-4
+Client connected. Current number of clients: 3
+Client connected from 192.168.1.48:42684
+Client connected from 192.168.1.48:42686
+Received order 9: x=1, y=2
+Client connected. Current number of clients: 4
+Received order 10: x=3, y=-3
+Client connected. Current number of clients: 5
+Client connected from 192.168.1.48:42692
+Client connected from 192.168.1.48:58864
+Received order 11: x=0, y=7
+Client connected. Current number of clients: 6
+Client connected from 192.168.1.48:58866
+Received order 12: x=3, y=4
+Client connected. Current number of clients: 7
+Client connected from 192.168.1.48:58882
+Received order 13: x=2, y=4
+Client connected. Current number of clients: 8
+Client connected from 192.168.1.48:58854
+Received order 14: x=4, y=1
+Client connected. Current number of clients: 9
+Received order 15: x=1, y=2
+Client connected. Current number of clients: 10
+Client connected from 192.168.1.48:58894
+Client connected from 192.168.1.48:58892
+Received order 16: x=4, y=1
+Client connected. Current number of clients: 11
+Received order 17: x=-2, y=5
+Client connected. Current number of clients: 12
+Client connected from 192.168.1.48:58906
+Client connected from 192.168.1.48:58920
+Received order 18: x=3, y=-10
+Client connected. Current number of clients: 13
+Received order 19: x=3, y=-3
+Client connected. Current number of clients: 14
+Client connected from 192.168.1.48:58932
+Client connected from 192.168.1.48:58936
+Received order 20: x=3, y=-4
+Client connected. Current number of clients: 15
+Order 3 is ready for delivery.
+Order 20 is ready for delivery.
+Order 2 is ready for delivery.
+Order 4 is ready for delivery.
+Order 19 is ready for delivery.
+Order 3 delivered to (2, 4).
+Order 1 is ready for delivery.
+Order 6 is ready for delivery.
+Order 18 is ready for delivery.
+Order 20 delivered to (3, -4).
+Order 13 is ready for delivery.
+Order 4 delivered to (4, 1).
+Order 16 is ready for delivery.
+Order 19 delivered to (3, -3).
+Order 15 is ready for delivery.
+Order 2 delivered to (0, 7).
+Order 14 is ready for delivery.
+Order 1 delivered to (3, 4).
+Order 17 is ready for delivery.
+Order 9 is ready for delivery.
+Order 15 delivered to (1, 2).
+Order 13 delivered to (2, 4).
+Order 10 is ready for delivery.
+Order 16 delivered to (4, 1).
+Order 8 is ready for delivery.
+Order 9 delivered to (1, 2).
+Order 11 is ready for delivery.
+Order 14 delivered to (4, 1).
+Order 12 is ready for delivery.
+Order 7 is ready for delivery.
+Order 5 is ready for delivery.
+Order 6 delivered to (3, -10).
+Order 17 delivered to (-2, 5).
+Order 18 delivered to (3, -10).
+Order 10 delivered to (3, -3).
+Order 8 delivered to (3, -4).
+Order 5 delivered to (4, 1).
+Order 11 delivered to (0, 7).
+Order 7 delivered to (-2, 5).
+Order 12 delivered to (3, 4).
+Server terminated.
+Client connected from 192.168.1.48:34796
+Received order 1: x=3, y=-2
+Client connected. Current number of clients: 1
+Received order 2: x=3, y=9
+Client connected. Current number of clients: 2
+Client connected from 192.168.1.48:34798
+Received order 3: x=4, y=-7
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:34794
+Client connected from 192.168.1.48:34808
+Received order 4: x=-1, y=-3
+Client connected. Current number of clients: 0
+Client connected from 192.168.1.48:34814
+Received order 5: x=-1, y=1
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:34824
+Received order 6: x=-3, y=1
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:34834
+Received order 7: x=2, y=6
+Client connected. Current number of clients: 2
+Received order 8: x=0, y=-4
+Client connected. Current number of clients: 3
+Client connected from 192.168.1.48:34840
+Client connected from 192.168.1.48:34844
+Received order 9: x=1, y=-3
+Client connected. Current number of clients: 4
+Client connected from 192.168.1.48:34850
+Received order 10: x=-4, y=-10
+Client connected. Current number of clients: 5
+Order 4 is ready for delivery.
+Order 10 is ready for delivery.
+Order 1 is ready for delivery.
+Order 3 is ready for delivery.
+Order 4 delivered to (-1, -3).
+Order 9 is ready for delivery.
+Order 2 is ready for delivery.
+Order 1 delivered to (3, -2).
+Order 5 is ready for delivery.
+Order 8 is ready for delivery.
+Order 5 delivered to (-1, 1).
+Order 6 is ready for delivery.
+Order 9 delivered to (1, -3).
+Order 8 delivered to (0, -4).
+Order 7 is ready for delivery.
+Order 6 delivered to (-3, 1).
+Order 3 delivered to (4, -7).
+Order 10 delivered to (-4, -10).
+Order 2 delivered to (3, 9).
+Order 7 delivered to (2, 6).
+Server terminated.
+Client connected from 192.168.1.48:34740
+Received order 1: x=-5, y=-7
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:34742
+Received order 3: x=1, y=-9
+Client connected. Current number of clients: 2
+Received order 2: x=-5, y=-3
+Client connected. Current number of clients: 0
+Client connected from 192.168.1.48:34760
+Client connected from 192.168.1.48:34768
+Client connected from 192.168.1.48:34780
+Received order 4: x=-1, y=4
+Client connected. Current number of clients: 1
+Received order 6: x=3, y=-2
+Client connected. Current number of clients: 2
+Received order 5: x=-2, y=-4
+Client connected. Current number of clients: 2
+Client connected from 192.168.1.48:34790
+Client connected from 192.168.1.48:34798
+Received order 7: x=4, y=-1
+Client connected. Current number of clients: 2
+Client connected from 192.168.1.48:34800
+Received order 8: x=2, y=-6
+Client connected. Current number of clients: 3
+Client connected from 192.168.1.48:34812
+Client connected from 192.168.1.48:34824
+Received order 9: x=-2, y=7
+Client connected. Current number of clients: 4
+Received order 10: x=-3, y=1
+Client connected. Current number of clients: 5
+Order 5 is ready for delivery.
+Server terminated.
+Client connected from 192.168.1.48:45760
+Received order 1: x=1, y=-1
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:45752
+Received order 2: x=-4, y=-10
+Client connected. Current number of clients: 2
+Client connected from 192.168.1.48:45766
+Client connected from 192.168.1.48:45782
+Received order 3: x=3, y=7
+Client connected. Current number of clients: 0
+Received order 4: x=0, y=-9
+Received order 5: x=0, y=-4
+Client connected. Current number of clients: 2
+Client connected from 192.168.1.48:45748
+Client connected. Current number of clients: 2
+Client connected from 192.168.1.48:45794
+Received order 6: x=-3, y=-2
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:45812
+Client connected from 192.168.1.48:45802
+Received order 7: x=4, y=4
+Client connected. Current number of clients: 2
+Received order 9: x=4, y=-7
+Client connected. Current number of clients: 3
+Client connected from 192.168.1.48:45824
+Received order 8: x=-3, y=5
+Client connected. Current number of clients: 4
+Client connected from 192.168.1.48:45832
+Received order 10: x=-5, y=4
+Client connected. Current number of clients: 5
+Received order 11: x=4, y=-6
+Client connected. Current number of clients: 6
+Client connected from 192.168.1.48:45834
+Client connected from 192.168.1.48:45846
+Received order 12: x=0, y=-7
+Client connected. Current number of clients: 7
+Received order 13: x=-1, y=1
+Client connected. Current number of clients: 8
+Client connected from 192.168.1.48:48176
+Client connected from 192.168.1.48:48202
+Received order 14: x=0, y=7
+Client connected. Current number of clients: 9
+Received order 15: x=3, y=-3
+Client connected. Current number of clients: 10
+Client connected from 192.168.1.48:48196
+Client connected from 192.168.1.48:48224
+Received order 16: x=0, y=-7
+Client connected. Current number of clients: 11
+Received order 17: x=3, y=-8
+Client connected. Current number of clients: 12
+Client connected from 192.168.1.48:48212
+Client connected from 192.168.1.48:48188
+Received order 18: x=1, y=-6
+Client connected. Current number of clients: 13
+Received order 19: x=3, y=2
+Client connected. Current number of clients: 14
+Client connected from 192.168.1.48:48192
+Client connected from 192.168.1.48:46258
+Received order 20: x=-5, y=6
+Client connected. Current number of clients: 15
+Client connected from 192.168.1.48:45872
+Received order 21: x=3, y=8
+Client connected. Current number of clients: 16
+Received order 22: x=1, y=5
+Client connected. Current number of clients: 17
+Client connected from 192.168.1.48:48164
+Client connected from 192.168.1.48:48108
+Received order 23: x=-4, y=-9
+Client connected. Current number of clients: 18
+Client connected from 192.168.1.48:46216
+Received order 24: x=0, y=-7
+Client connected. Current number of clients: 19
+Client connected from 192.168.1.48:47360
+Client connected from 192.168.1.48:46172
+Received order 26: x=-4, y=1
+Client connected. Current number of clients: 20
+Client connected from 192.168.1.48:45964
+Received order 25: x=-3, y=-8
+Client connected. Current number of clients: 21
+Received order 27: x=1, y=-7
+Client connected. Current number of clients: 22
+Client connected from 192.168.1.48:46054
+Client connected from 192.168.1.48:46004
+Received order 28: x=2, y=3
+Client connected. Current number of clients: 23
+Received order 29: x=-4, y=7
+Client connected. Current number of clients: 24
+Client connected from 192.168.1.48:45922
+Client connected from 192.168.1.48:45950
+Received order 30: x=-1, y=5
+Client connected. Current number of clients: 25
+Client connected from 192.168.1.48:45906
+Received order 31: x=-1, y=-8
+Client connected. Current number of clients: 26
+Order 5 is ready for delivery.
+Client connected from 192.168.1.48:49816
+Received order 32: x=1, y=0
+Client connected. Current number of clients: 26
+Client connected from 192.168.1.48:49660
+Client connected from 192.168.1.48:49598
+Received order 33: x=2, y=3
+Client connected. Current number of clients: 27
+Client connected from 192.168.1.48:50328
+Received order 34: x=1, y=-3
+Client connected. Current number of clients: 28
+Client connected from 192.168.1.48:49746
+Received order 36: x=0, y=-2
+Client connected. Current number of clients: 30
+Client connected from 192.168.1.48:49108
+Received order 35: x=-3, y=-9
+Client connected. Current number of clients: 30
+Received order 37: x=2, y=-8
+Client connected. Current number of clients: 31
+Client connected from 192.168.1.48:50350
+Received order 38: x=-1, y=9
+Client connected. Current number of clients: 32
+Client connected from 192.168.1.48:49662
+Received order 39: x=-1, y=8
+Client connected. Current number of clients: 33
+Received order 40: x=4, y=-4
+Client connected. Current number of clients: 34
+Client connected from 192.168.1.48:50230
+Client connected from 192.168.1.48:49230
+Received order 41: x=0, y=-1
+Client connected. Current number of clients: 35
+Received order 42: x=0, y=8
+Client connected. Current number of clients: 36
+Client connected from 192.168.1.48:49048
+Client connected from 192.168.1.48:49800
+Received order 43: x=-3, y=7
+Client connected. Current number of clients: 37
+Received order 44: x=-4, y=-5
+Client connected. Current number of clients: 38
+Client connected from 192.168.1.48:48672
+Client connected from 192.168.1.48:48352
+Received order 45: x=-1, y=-8
+Client connected. Current number of clients: 39
+Client connected from 192.168.1.48:48690
+Received order 46: x=-5, y=7
+Client connected. Current number of clients: 40
+Client connected from 192.168.1.48:50320
+Client connected from 192.168.1.48:45858
+Received order 47: x=-2, y=7
+Client connected. Current number of clients: 41
+Client connected from 192.168.1.48:49052
+Received order 48: x=2, y=-8
+Client connected. Current number of clients: 42
+Client connected from 192.168.1.48:49680
+Received order 49: x=0, y=-4
+Client connected. Current number of clients: 43
+Received order 50: x=-2, y=8
+Client connected. Current number of clients: 44
+Client connected from 192.168.1.48:49308
+Received order 51: x=-1, y=5
+Client connected. Current number of clients: 45
+Client connected from 192.168.1.48:49952
+Client connected from 192.168.1.48:50096
+Received order 52: x=-2, y=-4
+Client connected. Current number of clients: 46
+Client connected from 192.168.1.48:49116
+Received order 53: x=-5, y=-7
+Client connected. Current number of clients: 47
+Received order 54: x=-5, y=1
+Client connected. Current number of clients: 48
+Received order 55: x=4, y=7
+Client connected. Current number of clients: 49
+Client connected from 192.168.1.48:48576
+Client connected from 192.168.1.48:49392
+Received order 56: x=-4, y=-6
+Client connected. Current number of clients: 50
+Client connected from 192.168.1.48:49918
+Received order 57: x=-5, y=4
+Client connected. Current number of clients: 51
+Received order 58: x=1, y=0
+Client connected. Current number of clients: 52
+Client connected from 192.168.1.48:49604
+Client connected from 192.168.1.48:49176
+Received order 59: x=0, y=-10
+Client connected. Current number of clients: 53
+Received order 60: x=-2, y=-7
+Client connected. Current number of clients: 54
+Client connected from 192.168.1.48:48888
+Received order 61: x=-2, y=6
+Client connected. Current number of clients: 55
+Client connected from 192.168.1.48:48706
+Client connected from 192.168.1.48:49460
+Received order 62: x=3, y=-8
+Client connected. Current number of clients: 56
+Received order 63: x=-5, y=-3
+Client connected. Current number of clients: 57
+Client connected from 192.168.1.48:49726
+Client connected from 192.168.1.48:48790
+Received order 64: x=-2, y=9
+Client connected. Current number of clients: 58
+Client connected from 192.168.1.48:48928
+Received order 65: x=0, y=-1
+Client connected. Current number of clients: 59
+Client connected from 192.168.1.48:48398
+Received order 66: x=3, y=-7
+Client connected. Current number of clients: 60
+Client connected from 192.168.1.48:48416
+Received order 67: x=-1, y=-5
+Client connected. Current number of clients: 61
+Received order 68: x=1, y=-4
+Client connected. Current number of clients: 62
+Client connected from 192.168.1.48:49944
+Client connected from 192.168.1.48:50152
+Received order 69: x=2, y=6
+Client connected. Current number of clients: 63
+Received order 70: x=-3, y=-3
+Client connected. Current number of clients: 64
+Client connected from 192.168.1.48:48874
+Client connected from 192.168.1.48:49498
+Received order 71: x=3, y=-6
+Client connected. Current number of clients: 65
+Received order 72: x=-2, y=3
+Client connected. Current number of clients: 66
+Client connected from 192.168.1.48:48732
+Client connected from 192.168.1.48:49486
+Received order 73: x=-4, y=7
+Client connected. Current number of clients: 67
+Client connected from 192.168.1.48:48436
+Received order 74: x=-1, y=-9
+Client connected. Current number of clients: 68
+Client connected from 192.168.1.48:49286
+Received order 75: x=-4, y=4
+Client connected. Current number of clients: 69
+Received order 76: x=-3, y=0
+Client connected. Current number of clients: 70
+Client connected from 192.168.1.48:48836
+Client connected from 192.168.1.48:49736
+Received order 77: x=1, y=-7
+Client connected. Current number of clients: 71
+Client connected from 192.168.1.48:50198
+Received order 78: x=-1, y=-1
+Client connected. Current number of clients: 72
+Received order 79: x=-3, y=4
+Client connected. Current number of clients: 73
+Client connected from 192.168.1.48:49980
+Client connected from 192.168.1.48:49776
+Received order 80: x=2, y=-8
+Client connected. Current number of clients: 74
+Received order 81: x=-5, y=-3
+Client connected. Current number of clients: 75
+Client connected from 192.168.1.48:48652
+Client connected from 192.168.1.48:50054
+Client connected from 192.168.1.48:48768
+Client connected from 192.168.1.48:50040
+Received order 83: x=1, y=4
+Client connected. Current number of clients: 77
+Received order 85: x=3, y=7
+Client connected. Current number of clients: 78
+Client connected from 192.168.1.48:48918
+Received order 84: x=-3, y=2
+Client connected. Current number of clients: 79
+Client connected from 192.168.1.48:50086
+Received order 82: x=-3, y=-5
+Client connected. Current number of clients: 79
+Received order 86: x=4, y=3
+Client connected. Current number of clients: 80
+Client connected from 192.168.1.48:49620
+Received order 87: x=4, y=9
+Client connected. Current number of clients: 81
+Client connected from 192.168.1.48:50030
+Received order 88: x=2, y=-7
+Client connected. Current number of clients: 82
+Received order 89: x=2, y=7
+Client connected. Current number of clients: 83
+Client connected from 192.168.1.48:48452
+Client connected from 192.168.1.48:50014
+Received order 90: x=-3, y=2
+Client connected. Current number of clients: 84
+Client connected from 192.168.1.48:48734
+Received order 91: x=-5, y=5
+Client connected. Current number of clients: 85
+Client connected from 192.168.1.48:49412
+Received order 92: x=3, y=4
+Client connected. Current number of clients: 86
+Client connected from 192.168.1.48:49476
+Received order 93: x=-2, y=3
+Client connected. Current number of clients: 87
+Client connected from 192.168.1.48:49358
+Received order 94: x=2, y=5
+Client connected. Current number of clients: 88
+Client connected from 192.168.1.48:49012
+Received order 95: x=-1, y=7
+Client connected. Current number of clients: 89
+Client connected from 192.168.1.48:48564
+Received order 96: x=0, y=-5
+Client connected. Current number of clients: 90
+Received order 97: x=-4, y=-1
+Client connected. Current number of clients: 91
+Client connected from 192.168.1.48:45896
+Received order 98: x=2, y=3
+Client connected. Current number of clients: 92
+Client connected from 192.168.1.48:45992
+Received order 99: x=0, y=0
+Client connected. Current number of clients: 93
+Client connected from 192.168.1.48:46074
+Received order 100: x=-5, y=0
+Client connected. Current number of clients: 94
+Client connected from 192.168.1.48:45910
+Received order 101: x=-5, y=-9
+Client connected. Current number of clients: 95
+Client connected from 192.168.1.48:46028
+Client connected from 192.168.1.48:45958
+Received order 102: x=4, y=4
+Client connected. Current number of clients: 96
+Received order 103: x=3, y=-2
+Client connected. Current number of clients: 97
+Client connected from 192.168.1.48:46130
+Client connected from 192.168.1.48:46034
+Received order 104: x=-5, y=-5
+Client connected. Current number of clients: 98
+Received order 105: x=0, y=3
+Client connected. Current number of clients: 99
+Client connected from 192.168.1.48:46274
+Client connected from 192.168.1.48:45882
+Received order 106: x=-1, y=5
+Client connected. Current number of clients: 100
+Received order 107: x=-1, y=-5
+Client connected. Current number of clients: 101
+Client connected from 192.168.1.48:46092
+Client connected from 192.168.1.48:46298
+Received order 108: x=2, y=-8
+Client connected. Current number of clients: 102
+Received order 109: x=-2, y=-10
+Client connected. Current number of clients: 103
+Client connected from 192.168.1.48:46086
+Client connected from 192.168.1.48:47828
+Received order 110: x=1, y=2
+Client connected. Current number of clients: 104
+Client connected from 192.168.1.48:47810
+Received order 111: x=-5, y=-9
+Client connected. Current number of clients: 105
+Client connected from 192.168.1.48:47446
+Received order 112: x=0, y=-4
+Client connected. Current number of clients: 106
+Client connected from 192.168.1.48:48152
+Received order 113: x=1, y=4
+Client connected. Current number of clients: 107
+Client connected from 192.168.1.48:47628
+Received order 114: x=2, y=-4
+Client connected. Current number of clients: 108
+Received order 115: x=-5, y=-2
+Client connected. Current number of clients: 109
+Client connected from 192.168.1.48:48072
+Client connected from 192.168.1.48:48016
+Received order 116: x=-1, y=-3
+Client connected. Current number of clients: 110
+Order 31 is ready for delivery.
+Client connected from 192.168.1.48:48862
+Client connected from 192.168.1.48:49876
+Client connected from 192.168.1.48:50276
+Client connected from 192.168.1.48:50220
+Client connected from 192.168.1.48:50126
+Client connected from 192.168.1.48:48262
+Received order 117: x=-3, y=-7
+Client connected. Current number of clients: 110
+Client connected from 192.168.1.48:48366
+Client connected from 192.168.1.48:48346
+Received order 118: x=-2, y=1
+Client connected. Current number of clients: 111
+Received order 119: x=3, y=2
+Client connected. Current number of clients: 112
+Client connected from 192.168.1.48:49630
+Received order 120: x=-5, y=-9
+Client connected. Current number of clients: 113
+Client connected from 192.168.1.48:49514
+Received order 121: x=4, y=9
+Client connected. Current number of clients: 114
+Received order 122: x=2, y=-10
+Client connected. Current number of clients: 115
+Client connected from 192.168.1.48:49760
+Client connected from 192.168.1.48:49712
+Received order 123: x=1, y=5
+Client connected. Current number of clients: 116
+Client connected from 192.168.1.48:48226
+Received order 124: x=1, y=8
+Client connected. Current number of clients: 117
+Received order 125: x=-1, y=-5
+Client connected. Current number of clients: 118
+Client connected from 192.168.1.48:50172
+Client connected from 192.168.1.48:48758
+Received order 126: x=-1, y=-6
+Client connected. Current number of clients: 119
+Client connected from 192.168.1.48:48620
+Received order 127: x=1, y=2
+Client connected. Current number of clients: 120
+Client connected from 192.168.1.48:46076
+Received order 128: x=1, y=-1
+Client connected. Current number of clients: 121
+Client connected from 192.168.1.48:47888
+Received order 129: x=-2, y=-2
+Client connected. Current number of clients: 122
+Received order 130: x=-1, y=-3
+Client connected. Current number of clients: 123
+Client connected from 192.168.1.48:46352
+Client connected from 192.168.1.48:46554
+Received order 131: x=3, y=-7
+Client connected. Current number of clients: 124
+Received order 132: x=-3, y=-8
+Client connected. Current number of clients: 125
+Client connected from 192.168.1.48:48050
+Client connected from 192.168.1.48:46886
+Received order 133: x=-4, y=3
+Client connected. Current number of clients: 126
+Received order 134: x=4, y=7
+Client connected. Current number of clients: 127
+Client connected from 192.168.1.48:46522
+Client connected from 192.168.1.48:47512
+Received order 135: x=3, y=7
+Client connected. Current number of clients: 128
+Received order 136: x=-3, y=1
+Client connected. Current number of clients: 129
+Client connected from 192.168.1.48:47018
+Received order 137: x=1, y=7
+Client connected. Current number of clients: 130
+Client connected from 192.168.1.48:48168
+Client connected from 192.168.1.48:46188
+Received order 138: x=0, y=-9
+Client connected. Current number of clients: 131
+Client connected from 192.168.1.48:46946
+Received order 139: x=-2, y=5
+Client connected. Current number of clients: 132
+Client connected from 192.168.1.48:48412
+Received order 140: x=4, y=-7
+Client connected. Current number of clients: 133
+Received order 141: x=-4, y=-7
+Client connected. Current number of clients: 134
+Client connected from 192.168.1.48:48430
+Client connected from 192.168.1.48:48686
+Received order 142: x=-5, y=-2
+Client connected. Current number of clients: 135
+Client connected from 192.168.1.48:48500
+Received order 143: x=3, y=-4
+Client connected. Current number of clients: 136
+Received order 144: x=-1, y=9
+Client connected. Current number of clients: 137
+Client connected from 192.168.1.48:49456
+Client connected from 192.168.1.48:48854
+Received order 145: x=4, y=2
+Client connected. Current number of clients: 138
+Received order 146: x=-2, y=-9
+Client connected. Current number of clients: 139
+Client connected from 192.168.1.48:49168
+Received order 147: x=1, y=-2
+Client connected. Current number of clients: 140
+Client connected from 192.168.1.48:49996
+Client connected from 192.168.1.48:48736
+Received order 148: x=-3, y=-6
+Client connected. Current number of clients: 141
+Received order 149: x=-1, y=4
+Client connected. Current number of clients: 142
+Client connected from 192.168.1.48:48324
+Received order 150: x=1, y=-6
+Client connected. Current number of clients: 143
+Client connected from 192.168.1.48:48958
+Client connected from 192.168.1.48:49414
+Received order 151: x=-2, y=-6
+Client connected. Current number of clients: 144
+Client connected from 192.168.1.48:46066
+Received order 152: x=1, y=6
+Client connected. Current number of clients: 145
+Client connected from 192.168.1.48:47872
+Received order 153: x=-3, y=-4
+Client connected. Current number of clients: 146
+Client connected from 192.168.1.48:45976
+Received order 154: x=-4, y=1
+Client connected. Current number of clients: 147
+Client connected from 192.168.1.48:46498
+Received order 155: x=0, y=-8
+Client connected. Current number of clients: 148
+Received order 156: x=1, y=-4
+Client connected. Current number of clients: 149
+Client connected from 192.168.1.48:46100
+Client connected from 192.168.1.48:46050
+Received order 157: x=4, y=2
+Client connected. Current number of clients: 150
+Client connected from 192.168.1.48:45998
+Received order 158: x=1, y=-2
+Client connected. Current number of clients: 151
+Received order 159: x=-2, y=1
+Client connected. Current number of clients: 152
+Client connected from 192.168.1.48:45938
+Client connected from 192.168.1.48:47768
+Received order 160: x=-3, y=1
+Client connected. Current number of clients: 153
+Received order 161: x=4, y=-1
+Client connected. Current number of clients: 154
+Client connected from 192.168.1.48:46416
+Received order 162: x=-3, y=8
+Client connected. Current number of clients: 155
+Client connected from 192.168.1.48:47958
+Client connected from 192.168.1.48:46386
+Received order 163: x=3, y=-5
+Client connected. Current number of clients: 156
+Client connected from 192.168.1.48:48282
+Received order 164: x=-2, y=-3
+Client connected. Current number of clients: 157
+Received order 165: x=-3, y=-7
+Client connected. Current number of clients: 158
+Client connected from 192.168.1.48:50330
+Client connected from 192.168.1.48:48326
+Received order 166: x=-5, y=4
+Client connected. Current number of clients: 159
+Client connected from 192.168.1.48:48532
+Received order 167: x=4, y=0
+Client connected. Current number of clients: 160
+Client connected from 192.168.1.48:48810
+Received order 168: x=-1, y=0
+Client connected. Current number of clients: 161
+Client connected from 192.168.1.48:48380
+Received order 169: x=0, y=-1
+Client connected. Current number of clients: 162
+Received order 170: x=2, y=-9
+Client connected. Current number of clients: 163
+Client connected from 192.168.1.48:48654
+Client connected from 192.168.1.48:48662
+Received order 171: x=-4, y=-1
+Client connected. Current number of clients: 164
+Client connected from 192.168.1.48:48304
+Received order 172: x=-2, y=-1
+Client connected. Current number of clients: 165
+Client connected from 192.168.1.48:49264
+Received order 173: x=2, y=-1
+Client connected. Current number of clients: 166
+Client connected from 192.168.1.48:48368
+Received order 174: x=2, y=4
+Client connected. Current number of clients: 167
+Received order 175: x=-3, y=5
+Client connected. Current number of clients: 168
+Client connected from 192.168.1.48:49924
+Client connected from 192.168.1.48:48318
+Received order 176: x=2, y=-3
+Client connected. Current number of clients: 169
+Client connected from 192.168.1.48:48604
+Received order 177: x=-4, y=-1
+Client connected. Current number of clients: 170
+Received order 178: x=-4, y=-2
+Client connected. Current number of clients: 171
+Received order 180: x=-1, y=1
+Client connected. Current number of clients: 172
+Received order 181: x=-2, y=-7
+Client connected. Current number of clients: 173
+Received order 183: x=0, y=-2
+Client connected. Current number of clients: 174
+Received order 182: x=-1, y=-8
+Client connected. Current number of clients: 175
+Received order 179: x=-2, y=5
+Client connected. Current number of clients: 176
+Client connected from 192.168.1.48:48974
+Client connected from 192.168.1.48:50310
+Received order 184: x=0, y=7
+Client connected. Current number of clients: 177
+Received order 185: x=0, y=5
+Client connected. Current number of clients: 178
+Client connected from 192.168.1.48:49560
+Client connected from 192.168.1.48:49696
+Received order 186: x=0, y=-4
+Client connected. Current number of clients: 179
+Client connected from 192.168.1.48:49334
+Received order 187: x=2, y=8
+Client connected. Current number of clients: 180
+Received order 188: x=-4, y=8
+Client connected. Current number of clients: 181
+Client connected from 192.168.1.48:48956
+Client connected from 192.168.1.48:48502
+Received order 189: x=-3, y=-1
+Client connected. Current number of clients: 182
+Received order 190: x=-3, y=9
+Client connected. Current number of clients: 183
+Client connected from 192.168.1.48:48236
+Client connected from 192.168.1.48:49438
+Received order 191: x=1, y=1
+Client connected. Current number of clients: 184
+Received order 192: x=4, y=7
+Client connected. Current number of clients: 185
+Client connected from 192.168.1.48:49978
+Client connected from 192.168.1.48:50184
+Received order 193: x=-5, y=-5
+Client connected. Current number of clients: 186
+Received order 194: x=-1, y=-1
+Client connected. Current number of clients: 187
+Client connected from 192.168.1.48:49318
+Client connected from 192.168.1.48:49882
+Received order 195: x=3, y=7
+Client connected. Current number of clients: 188
+Received order 196: x=3, y=9
+Client connected. Current number of clients: 189
+Client connected from 192.168.1.48:49848
+Client connected from 192.168.1.48:47870
+Received order 197: x=-1, y=2
+Client connected. Current number of clients: 190
+Client connected from 192.168.1.48:48088
+Received order 198: x=2, y=-6
+Client connected. Current number of clients: 191
+Client connected from 192.168.1.48:47442
+Received order 199: x=-3, y=4
+Client connected. Current number of clients: 192
+Client connected from 192.168.1.48:47948
+Received order 200: x=2, y=9
+Client connected. Current number of clients: 193
+Client connected from 192.168.1.48:48042
+Received order 201: x=0, y=-10
+Client connected. Current number of clients: 194
+Client connected from 192.168.1.48:47126
+Received order 202: x=-2, y=-1
+Client connected. Current number of clients: 195
+Client connected from 192.168.1.48:47782
+Received order 203: x=1, y=-6
+Client connected. Current number of clients: 196
+Client connected from 192.168.1.48:47754
+Received order 204: x=1, y=-10
+Client connected. Current number of clients: 197
+Received order 205: x=4, y=6
+Client connected. Current number of clients: 198
+Client connected from 192.168.1.48:48036
+Client connected from 192.168.1.48:47960
+Received order 206: x=-1, y=-10
+Client connected. Current number of clients: 199
+Received order 207: x=-5, y=7
+Client connected. Current number of clients: 200
+Client connected from 192.168.1.48:46926
+Client connected from 192.168.1.48:47348
+Received order 208: x=-3, y=-3
+Client connected. Current number of clients: 201
+Received order 209: x=1, y=6
+Client connected. Current number of clients: 202
+Client connected from 192.168.1.48:48018
+Client connected from 192.168.1.48:46630
+Received order 210: x=4, y=9
+Client connected. Current number of clients: 203
+Client connected from 192.168.1.48:48384
+Received order 211: x=-3, y=-2
+Client connected. Current number of clients: 204
+Received order 212: x=0, y=9
+Client connected. Current number of clients: 205
+Client connected from 192.168.1.48:49962
+Client connected from 192.168.1.48:49086
+Received order 213: x=2, y=3
+Client connected. Current number of clients: 206
+Client connected from 192.168.1.48:48904
+Received order 214: x=-2, y=-6
+Client connected. Current number of clients: 207
+Received order 215: x=-5, y=-6
+Client connected. Current number of clients: 208
+Client connected from 192.168.1.48:48980
+Client connected from 192.168.1.48:49010
+Received order 216: x=1, y=8
+Client connected. Current number of clients: 209
+Client connected from 192.168.1.48:48820
+Received order 217: x=1, y=2
+Client connected. Current number of clients: 210
+Client connected from 192.168.1.48:49016
+Received order 218: x=-3, y=-4
+Client connected. Current number of clients: 211
+Received order 219: x=-5, y=8
+Client connected. Current number of clients: 212
+Client connected from 192.168.1.48:49064
+Client connected from 192.168.1.48:49024
+Received order 220: x=-1, y=0
+Client connected. Current number of clients: 213
+Client connected from 192.168.1.48:50252
+Received order 221: x=2, y=6
+Client connected. Current number of clients: 214
+Received order 222: x=-1, y=-10
+Client connected. Current number of clients: 215
+Client connected from 192.168.1.48:48546
+Client connected from 192.168.1.48:48592
+Received order 223: x=3, y=5
+Client connected. Current number of clients: 216
+Received order 224: x=2, y=1
+Client connected. Current number of clients: 217
+Client connected from 192.168.1.48:49200
+Client connected from 192.168.1.48:49868
+Received order 225: x=4, y=7
+Client connected. Current number of clients: 218
+Client connected from 192.168.1.48:50116
+Received order 226: x=-5, y=7
+Client connected. Current number of clients: 219
+Order 3 is ready for delivery.
+Client connected from 192.168.1.48:48696
+Client connected from 192.168.1.48:49184
+Received order 227: x=-4, y=-9
+Client connected. Current number of clients: 219
+Received order 228: x=3, y=7
+Client connected. Current number of clients: 220
+Client connected from 192.168.1.48:49152
+Client connected from 192.168.1.48:49096
+Received order 229: x=2, y=4
+Client connected. Current number of clients: 221
+Received order 230: x=1, y=-9
+Client connected. Current number of clients: 222
+Client connected from 192.168.1.48:49072
+Client connected from 192.168.1.48:50146
+Received order 231: x=1, y=-9
+Client connected. Current number of clients: 223
+Received order 232: x=-4, y=-4
+Client connected. Current number of clients: 224
+Client connected from 192.168.1.48:50018
+Client connected from 192.168.1.48:49838
+Received order 233: x=-5, y=1
+Client connected. Current number of clients: 225
+Client connected from 192.168.1.48:49910
+Received order 234: x=-3, y=8
+Client connected. Current number of clients: 226
+Client connected from 192.168.1.48:49956
+Received order 235: x=-5, y=2
+Client connected. Current number of clients: 227
+Received order 236: x=-1, y=4
+Client connected. Current number of clients: 228
+Client connected from 192.168.1.48:49748
+Client connected from 192.168.1.48:49654
+Received order 237: x=0, y=1
+Client connected. Current number of clients: 229
+Client connected from 192.168.1.48:49622
+Received order 238: x=2, y=-2
+Client connected. Current number of clients: 230
+Client connected from 192.168.1.48:49590
+Received order 239: x=3, y=-4
+Client connected. Current number of clients: 231
+Client connected from 192.168.1.48:48560
+Received order 240: x=3, y=9
+Client connected. Current number of clients: 232
+Received order 241: x=2, y=-9
+Client connected. Current number of clients: 233
+Client connected from 192.168.1.48:48750
+Client connected from 192.168.1.48:49178
+Received order 242: x=3, y=5
+Client connected. Current number of clients: 234
+Client connected from 192.168.1.48:49132
+Received order 243: x=-3, y=-1
+Client connected. Current number of clients: 235
+Received order 244: x=2, y=1
+Client connected. Current number of clients: 236
+Client connected from 192.168.1.48:49070
+Client connected from 192.168.1.48:48792
+Received order 245: x=2, y=6
+Client connected. Current number of clients: 237
+Client connected from 192.168.1.48:48850
+Received order 246: x=-2, y=4
+Client connected. Current number of clients: 238
+Received order 247: x=1, y=5
+Client connected. Current number of clients: 239
+Client connected from 192.168.1.48:48894
+Received order 248: x=1, y=-8
+Client connected. Current number of clients: 240
+Client connected from 192.168.1.48:48984
+Received order 249: x=-5, y=3
+Client connected. Current number of clients: 241
+Client connected from 192.168.1.48:49034
+Received order 250: x=-2, y=1
+Client connected. Current number of clients: 242
+Client connected from 192.168.1.48:49382
+Received order 251: x=-1, y=9
+Client connected. Current number of clients: 243
+Client connected from 192.168.1.48:49348
+Client connected from 192.168.1.48:48720
+Received order 252: x=-4, y=-8
+Client connected. Current number of clients: 244
+Received order 253: x=-4, y=-3
+Client connected. Current number of clients: 245
+Client connected from 192.168.1.48:49244
+Client connected from 192.168.1.48:49512
+Received order 254: x=-3, y=-2
+Client connected. Current number of clients: 246
+Client connected from 192.168.1.48:49206
+Received order 255: x=4, y=-4
+Client connected. Current number of clients: 247
+Client connected from 192.168.1.48:49298
+Received order 256: x=-3, y=-10
+Client connected. Current number of clients: 248
+Client connected from 192.168.1.48:49426
+Received order 257: x=2, y=2
+Client connected. Current number of clients: 249
+Client connected from 192.168.1.48:49724
+Received order 258: x=1, y=2
+Client connected. Current number of clients: 250
+Client connected from 192.168.1.48:46236
+Received order 259: x=-4, y=-7
+Client connected. Current number of clients: 251
+Received order 260: x=-1, y=-3
+Client connected. Current number of clients: 252
+Client connected from 192.168.1.48:47972
+Client connected from 192.168.1.48:46546
+Received order 261: x=-5, y=-8
+Client connected. Current number of clients: 253
+Client connected from 192.168.1.48:46476
+Received order 262: x=-4, y=-8
+Client connected. Current number of clients: 254
+Received order 263: x=-2, y=7
+Client connected. Current number of clients: 255
+Client connected from 192.168.1.48:46282
+Client connected from 192.168.1.48:46342
+Received order 264: x=-3, y=-8
+Client connected. Current number of clients: 256
+Client connected from 192.168.1.48:48066
+Received order 265: x=-3, y=-3
+Client connected. Current number of clients: 257
+Received order 266: x=3, y=-1
+Client connected. Current number of clients: 258
+Client connected from 192.168.1.48:46508
+Client connected from 192.168.1.48:46800
+Received order 267: x=1, y=-8
+Client connected. Current number of clients: 259
+Client connected from 192.168.1.48:46534
+Received order 268: x=-1, y=7
+Client connected. Current number of clients: 260
+Received order 269: x=-2, y=-1
+Client connected. Current number of clients: 261
+Client connected from 192.168.1.48:46544
+Client connected from 192.168.1.48:46260
+Received order 270: x=-3, y=6
+Client connected. Current number of clients: 262
+Client connected from 192.168.1.48:46288
+Received order 271: x=-4, y=-8
+Client connected. Current number of clients: 263
+Client connected from 192.168.1.48:46018
+Received order 272: x=-2, y=0
+Client connected. Current number of clients: 264
+Received order 273: x=-5, y=-9
+Client connected. Current number of clients: 265
+Client connected from 192.168.1.48:46600
+Client connected from 192.168.1.48:46670
+Received order 274: x=-1, y=-1
+Client connected. Current number of clients: 266
+Client connected from 192.168.1.48:46468
+Received order 275: x=1, y=1
+Client connected. Current number of clients: 267
+Received order 276: x=-1, y=-2
+Client connected. Current number of clients: 268
+Client connected from 192.168.1.48:46568
+Client connected from 192.168.1.48:47298
+Received order 277: x=-4, y=-3
+Client connected. Current number of clients: 269
+Received order 278: x=1, y=0
+Client connected. Current number of clients: 270
+Client connected from 192.168.1.48:48666
+Received order 279: x=-4, y=-4
+Client connected. Current number of clients: 271
+Client connected from 192.168.1.48:48332
+Received order 280: x=-3, y=0
+Client connected. Current number of clients: 272
+Client connected from 192.168.1.48:48512
+Received order 281: x=-5, y=4
+Client connected. Current number of clients: 273
+Client connected from 192.168.1.48:48468
+Received order 282: x=-4, y=-7
+Client connected. Current number of clients: 274
+Client connected from 192.168.1.48:48884
+Received order 283: x=3, y=-9
+Client connected. Current number of clients: 275
+Received order 284: x=0, y=7
+Client connected. Current number of clients: 276
+Client connected from 192.168.1.48:48780
+Client connected from 192.168.1.48:48256
+Received order 285: x=1, y=2
+Client connected. Current number of clients: 277
+Client connected from 192.168.1.48:48394
+Received order 286: x=2, y=3
+Client connected. Current number of clients: 278
+Received order 287: x=4, y=3
+Client connected. Current number of clients: 279
+Client connected from 192.168.1.48:48616
+Client connected from 192.168.1.48:48708
+Received order 288: x=-5, y=6
+Client connected. Current number of clients: 280
+Received order 289: x=-3, y=-7
+Client connected. Current number of clients: 281
+Client connected from 192.168.1.48:48934
+Client connected from 192.168.1.48:48998
+Received order 290: x=-3, y=1
+Client connected. Current number of clients: 282
+Received order 291: x=-1, y=8
+Client connected. Current number of clients: 283
+Client connected from 192.168.1.48:50068
+Client connected from 192.168.1.48:49138
+Received order 292: x=3, y=3
+Client connected. Current number of clients: 284
+Received order 293: x=-4, y=-1
+Client connected. Current number of clients: 285
+Client connected from 192.168.1.48:50352
+Client connected from 192.168.1.48:48266
+Received order 294: x=0, y=2
+Client connected. Current number of clients: 286
+Client connected from 192.168.1.48:48724
+Received order 295: x=-5, y=6
+Client connected. Current number of clients: 287
+Received order 296: x=-3, y=6
+Client connected. Current number of clients: 288
+Client connected from 192.168.1.48:48638
+Order 1 is ready for delivery.
+Client connected from 192.168.1.48:48510
+Received order 297: x=1, y=-5
+Client connected. Current number of clients: 288
+Received order 298: x=-1, y=-9
+Client connected. Current number of clients: 289
+Client connected from 192.168.1.48:49256
+Client connected from 192.168.1.48:48950
+Received order 299: x=4, y=7
+Client connected. Current number of clients: 290
+Client connected from 192.168.1.48:48542
+Received order 300: x=-4, y=-7
+Client connected. Current number of clients: 291
+Received order 301: x=-1, y=5
+Client connected. Current number of clients: 292
+Client connected from 192.168.1.48:48684
+Client connected from 192.168.1.48:49858
+Received order 302: x=0, y=-6
+Client connected. Current number of clients: 293
+Received order 303: x=3, y=0
+Client connected. Current number of clients: 294
+Client connected from 192.168.1.48:48626
+Client connected from 192.168.1.48:49666
+Received order 304: x=-1, y=8
+Client connected. Current number of clients: 295
+Client connected from 192.168.1.48:49720
+Received order 305: x=-4, y=-8
+Client connected. Current number of clients: 296
+Received order 306: x=-3, y=0
+Client connected. Current number of clients: 297
+Client connected from 192.168.1.48:49640
+Client connected from 192.168.1.48:49480
+Received order 307: x=-1, y=-9
+Client connected. Current number of clients: 298
+Received order 308: x=-4, y=-10
+Client connected. Current number of clients: 299
+Client connected from 192.168.1.48:50168
+Order 1 delivered to (1, -1).
+Order 116 is ready for delivery.
+Order 5 delivered to (0, -4).
+Client connected from 192.168.1.48:47282
+Received order 309: x=-3, y=6
+Client connected. Current number of clients: 299
+Received order 310: x=-1, y=-5
+Client connected. Current number of clients: 300
+Client connected from 192.168.1.48:46958
+Client connected from 192.168.1.48:47824
+Received order 311: x=3, y=5
+Client connected. Current number of clients: 301
+Client connected from 192.168.1.48:47406
+Client connected from 192.168.1.48:47202
+Client connected from 192.168.1.48:47722
+Received order 314: x=4, y=-5
+Client connected. Current number of clients: 303
+Received order 313: x=2, y=-2
+Client connected. Current number of clients: 303
+Received order 315: x=-3, y=7
+Client connected. Current number of clients: 304
+Client connected from 192.168.1.48:46732
+Received order 312: x=-3, y=-6
+Client connected. Current number of clients: 305
+Received order 316: x=4, y=-9
+Client connected. Current number of clients: 306
+Client connected from 192.168.1.48:47910
+Client connected from 192.168.1.48:46660
+Received order 317: x=-5, y=-7
+Client connected. Current number of clients: 307
+Received order 318: x=1, y=-2
+Client connected. Current number of clients: 308
+Client connected from 192.168.1.48:47240
+Client connected from 192.168.1.48:46452
+Received order 319: x=3, y=-1
+Client connected. Current number of clients: 309
+Client connected from 192.168.1.48:47482
+Received order 320: x=-2, y=9
+Client connected. Current number of clients: 310
+Client connected from 192.168.1.48:47624
+Received order 321: x=-3, y=7
+Client connected. Current number of clients: 311
+Client connected from 192.168.1.48:49784
+Received order 322: x=-3, y=7
+Client connected. Current number of clients: 312
+Received order 323: x=4, y=1
+Client connected. Current number of clients: 313
+Client connected from 192.168.1.48:49040
+Order 2 is ready for delivery.
+Order 4 is ready for delivery.
+Order 226 is ready for delivery.
+Client connected from 192.168.1.48:49966
+Received order 324: x=2, y=-8
+Client connected. Current number of clients: 311
+Received order 325: x=-4, y=-5
+Client connected. Current number of clients: 312
+Client connected from 192.168.1.48:49932
+Client connected from 192.168.1.48:48240
+Received order 326: x=-5, y=6
+Client connected. Current number of clients: 313
+Client connected from 192.168.1.48:50296
+Client connected from 192.168.1.48:50334
+Received order 327: x=-2, y=7
+Client connected. Current number of clients: 314
+Client connected from 192.168.1.48:48292
+Received order 328: x=3, y=-2
+Client connected. Current number of clients: 315
+Received order 329: x=3, y=-4
+Client connected. Current number of clients: 316
+Received order 330: x=-1, y=1
+Client connected. Current number of clients: 317
+Client connected from 192.168.1.48:50284
+Client connected from 192.168.1.48:50210
+Received order 331: x=-4, y=-10
+Client connected. Current number of clients: 318
+Received order 332: x=4, y=0
+Client connected. Current number of clients: 319
+Client connected from 192.168.1.48:49894
+Client connected from 192.168.1.48:49926
+Received order 333: x=2, y=-10
+Client connected. Current number of clients: 320
+Received order 334: x=2, y=-7
+Client connected. Current number of clients: 321
+Client connected from 192.168.1.48:50246
+Client connected from 192.168.1.48:49544
+Received order 335: x=0, y=8
+Client connected. Current number of clients: 322
+Received order 336: x=4, y=9
+Client connected. Current number of clients: 323
+Client connected from 192.168.1.48:50110
+Order 321 is ready for delivery.
+Order 308 is ready for delivery.
+Order 116 delivered to (-1, -3).
+Client connected from 192.168.1.48:46754
+Received order 337: x=4, y=9
+Client connected. Current number of clients: 322
+Client connected from 192.168.1.48:47228
+Received order 338: x=4, y=4
+Client connected. Current number of clients: 323
+Client connected from 192.168.1.48:46782
+Received order 339: x=-5, y=-3
+Client connected. Current number of clients: 324
+Client connected from 192.168.1.48:46114
+Received order 340: x=4, y=-3
+Client connected. Current number of clients: 325
+Client connected from 192.168.1.48:47008
+Received order 341: x=-4, y=-3
+Client connected. Current number of clients: 326
+Client connected from 192.168.1.48:47340
+Received order 342: x=-1, y=-1
+Client connected. Current number of clients: 327
+Received order 343: x=-5, y=-10
+Client connected. Current number of clients: 328
+Client connected from 192.168.1.48:46622
+Client connected from 192.168.1.48:46518
+Received order 344: x=1, y=-5
+Client connected. Current number of clients: 329
+Client connected from 192.168.1.48:46696
+Received order 345: x=1, y=-6
+Client connected. Current number of clients: 330
+Received order 346: x=-2, y=-5
+Client connected. Current number of clients: 331
+Client connected from 192.168.1.48:46864
+Client connected from 192.168.1.48:46484
+Received order 347: x=4, y=8
+Client connected. Current number of clients: 332
+Received order 348: x=0, y=-2
+Client connected. Current number of clients: 333
+Client connected from 192.168.1.48:47412
+Client connected from 192.168.1.48:46502
+Received order 349: x=4, y=-6
+Client connected. Current number of clients: 334
+Client connected from 192.168.1.48:46682
+Client connected from 192.168.1.48:46714
+Received order 350: x=-5, y=0
+Client connected. Current number of clients: 335
+Received order 351: x=3, y=6
+Client connected. Current number of clients: 336
+Received order 352: x=3, y=-5
+Client connected. Current number of clients: 337
+Client connected from 192.168.1.48:46832
+Client connected from 192.168.1.48:46860
+Received order 353: x=0, y=-8
+Client connected. Current number of clients: 338
+Received order 354: x=-5, y=-9
+Client connected. Current number of clients: 339
+Client connected from 192.168.1.48:46874
+Order 323 is ready for delivery.
+Order 3 delivered to (3, 7).
+Order 322 is ready for delivery.
+Order 31 delivered to (-1, -8).
+Order 296 is ready for delivery.
+Order 353 is ready for delivery.
+Order 354 is ready for delivery.
+Order 323 delivered to (4, 1).
+Order 352 is ready for delivery.
+Order 335 is ready for delivery.
+Client connected from 192.168.1.48:50008
+Received order 355: x=-1, y=3
+Client connected. Current number of clients: 333
+Received order 356: x=-4, y=-9
+Client connected. Current number of clients: 334
+Client connected from 192.168.1.48:49842
+Client connected from 192.168.1.48:49396
+Received order 357: x=-3, y=9
+Client connected. Current number of clients: 335
+Received order 358: x=4, y=-10
+Client connected. Current number of clients: 336
+Client connected from 192.168.1.48:49788
+Client connected from 192.168.1.48:50326
+Received order 359: x=-5, y=7
+Client connected. Current number of clients: 337
+Received order 360: x=-5, y=7
+Client connected. Current number of clients: 338
+Client connected from 192.168.1.48:49900
+Client connected from 192.168.1.48:49214
+Received order 361: x=2, y=8
+Client connected. Current number of clients: 339
+Received order 362: x=3, y=-2
+Client connected. Current number of clients: 340
+Client connected from 192.168.1.48:49836
+Client connected from 192.168.1.48:48986
+Received order 363: x=0, y=2
+Client connected. Current number of clients: 341
+Client connected from 192.168.1.48:50082
+Received order 364: x=-4, y=7
+Client connected. Current number of clients: 342
+Received order 365: x=0, y=-3
+Client connected. Current number of clients: 343
+Client connected from 192.168.1.48:49644
+Client connected from 192.168.1.48:48484
+Received order 366: x=-2, y=-8
+Client connected. Current number of clients: 344
+Order 226 delivered to (-5, 7).
+Order 336 is ready for delivery.
+Order 4 delivered to (0, -9).
+Order 351 is ready for delivery.
+Client connected from 192.168.1.48:47392
+Received order 367: x=-2, y=-9
+Client connected. Current number of clients: 343
+Client connected from 192.168.1.48:46132
+Received order 368: x=-4, y=6
+Client connected. Current number of clients: 344
+Client connected from 192.168.1.48:47598
+Received order 369: x=2, y=-4
+Client connected. Current number of clients: 345
+Client connected from 192.168.1.48:47874
+Received order 370: x=-3, y=6
+Client connected. Current number of clients: 346
+Client connected from 192.168.1.48:47920
+Received order 371: x=-4, y=6
+Client connected. Current number of clients: 347
+Client connected from 192.168.1.48:47968
+Received order 372: x=-3, y=7
+Client connected. Current number of clients: 348
+Received order 373: x=-3, y=-7
+Client connected. Current number of clients: 349
+Client connected from 192.168.1.48:47380
+Client connected from 192.168.1.48:47934
+Received order 374: x=2, y=0
+Client connected. Current number of clients: 350
+Received order 375: x=-4, y=9
+Client connected. Current number of clients: 351
+Client connected from 192.168.1.48:47732
+Client connected from 192.168.1.48:47856
+Received order 376: x=-2, y=7
+Client connected. Current number of clients: 352
+Received order 377: x=-2, y=0
+Client connected from 192.168.1.48:48020
+Client connected. Current number of clients: 353
+Client connected from 192.168.1.48:47268
+Received order 378: x=-1, y=4
+Client connected. Current number of clients: 354
+Client connected from 192.168.1.48:47570
+Received order 379: x=-1, y=-7
+Client connected. Current number of clients: 355
+Received order 380: x=1, y=1
+Client connected. Current number of clients: 356
+Client connected from 192.168.1.48:46770
+Client connected from 192.168.1.48:47764
+Received order 381: x=-1, y=9
+Client connected. Current number of clients: 357
+Order 2 delivered to (-4, -10).
+Order 350 is ready for delivery.
+Order 349 is ready for delivery.
+Order 322 delivered to (-3, 7).
+Order 380 is ready for delivery.
+Order 308 delivered to (-4, -10).
+Order 366 is ready for delivery.
+Order 380 delivered to (1, 1).
+Order 381 is ready for delivery.
+Order 348 is ready for delivery.
+Order 376 is ready for delivery.
+Order 351 delivered to (3, 6).
+Order 365 is ready for delivery.
+Order 379 is ready for delivery.
+Order 335 delivered to (0, 8).
+Order 354 delivered to (-5, -9).
+Order 377 is ready for delivery.
+Order 336 delivered to (4, 9).
+Order 349 delivered to (4, -6).
+Order 378 is ready for delivery.
+Order 377 delivered to (-2, 0).
+Order 374 is ready for delivery.
+Order 373 is ready for delivery.
+Order 348 delivered to (0, -2).
+Order 365 delivered to (0, -3).
+Order 366 delivered to (-2, -8).
+Client connected from 192.168.1.48:49368
+Received order 382: x=1, y=3
+Client connected. Current number of clients: 345
+Received order 383: x=1, y=2
+Client connected. Current number of clients: 346
+Client connected from 192.168.1.48:50312
+Client connected from 192.168.1.48:49440
+Received order 384: x=-2, y=6
+Client connected. Current number of clients: 347
+Client connected from 192.168.1.48:49278
+Received order 385: x=4, y=1
+Client connected. Current number of clients: 348
+Client connected from 192.168.1.48:50002
+Received order 386: x=4, y=6
+Client connected. Current number of clients: 349
+Client connected from 192.168.1.48:49562
+Received order 387: x=4, y=3
+Client connected. Current number of clients: 350
+Client connected from 192.168.1.48:49822
+Received order 388: x=-2, y=-9
+Client connected. Current number of clients: 351
+Client connected from 192.168.1.48:48834
+Received order 389: x=2, y=6
+Client connected. Current number of clients: 352
+Received order 390: x=-3, y=5
+Client connected. Current number of clients: 353
+Client connected from 192.168.1.48:49552
+Client connected from 192.168.1.48:50138
+Received order 391: x=-1, y=5
+Client connected. Current number of clients: 354
+Client connected from 192.168.1.48:49420
+Received order 393: x=-5, y=-8
+Client connected. Current number of clients: 356
+Received order 392: x=-1, y=3
+Client connected. Current number of clients: 356
+Client connected from 192.168.1.48:50314
+Order 375 is ready for delivery.
+Client connected from 192.168.1.48:46700
+Received order 394: x=-5, y=-2
+Client connected. Current number of clients: 356
+Received order 395: x=2, y=-7
+Client connected. Current number of clients: 357
+Client connected from 192.168.1.48:46970
+Client connected from 192.168.1.48:46424
+Received order 396: x=1, y=4
+Client connected. Current number of clients: 358
+Client connected from 192.168.1.48:46614
+Received order 397: x=0, y=-9
+Client connected. Current number of clients: 359
+Received order 398: x=0, y=-1
+Client connected. Current number of clients: 360
+Client connected from 192.168.1.48:46914
+Client connected from 192.168.1.48:46982
+Received order 399: x=3, y=-3
+Client connected. Current number of clients: 361
+Received order 400: x=-2, y=-2
+Client connected. Current number of clients: 362
+Client connected from 192.168.1.48:47558
+Client connected from 192.168.1.48:46742
+Received order 401: x=-1, y=-2
+Client connected. Current number of clients: 363
+Client connected from 192.168.1.48:47034
+Received order 402: x=3, y=3
+Client connected. Current number of clients: 364
+Client connected from 192.168.1.48:46250
+Received order 403: x=-3, y=-3
+Client connected. Current number of clients: 365
+Client connected from 192.168.1.48:47144
+Received order 404: x=-3, y=-6
+Client connected. Current number of clients: 366
+Received order 405: x=2, y=2
+Client connected. Current number of clients: 367
+Client connected from 192.168.1.48:48022
+Order 376 delivered to (-2, 7).
+Order 374 delivered to (2, 0).
+Order 379 delivered to (-1, -7).
+Order 372 is ready for delivery.
+Order 378 delivered to (-1, 4).
+Order 370 is ready for delivery.
+Order 393 is ready for delivery.
+Order 371 is ready for delivery.
+Order 369 is ready for delivery.
+Order 405 is ready for delivery.
+Order 373 delivered to (-3, -7).
+Order 350 delivered to (-5, 0).
+Order 404 is ready for delivery.
+Order 352 delivered to (3, -5).
+Order 405 delivered to (2, 2).
+Order 401 is ready for delivery.
+Order 381 delivered to (-1, 9).
+Order 372 delivered to (-3, 7).
+Order 401 delivered to (-1, -2).
+Order 375 delivered to (-4, 9).
+Order 369 delivered to (2, -4).
+Order 402 is ready for delivery.
+Order 403 is ready for delivery.
+Order 398 is ready for delivery.
+Order 400 is ready for delivery.
+Order 395 is ready for delivery.
+Order 404 delivered to (-3, -6).
+Order 394 is ready for delivery.
+Order 399 is ready for delivery.
+Order 371 delivered to (-4, 6).
+Order 370 delivered to (-3, 6).
+Order 296 delivered to (-3, 6).
+Order 397 is ready for delivery.
+Order 391 is ready for delivery.
+Order 390 is ready for delivery.
+Order 389 is ready for delivery.
+Order 353 delivered to (0, -8).
+Order 400 delivered to (-2, -2).
+Order 396 is ready for delivery.
+Order 393 delivered to (-5, -8).
+Order 392 is ready for delivery.
+Order 388 is ready for delivery.
+Order 385 is ready for delivery.
+Order 399 delivered to (3, -3).
+Order 395 delivered to (2, -7).
+Order 382 is ready for delivery.
+Order 394 delivered to (-5, -2).
+Order 386 is ready for delivery.
+Order 384 is ready for delivery.
+Order 368 is ready for delivery.
+Order 383 is ready for delivery.
+Order 396 delivered to (1, 4).
+Order 387 is ready for delivery.
+Order 390 delivered to (-3, 5).
+Order 362 is ready for delivery.
+Order 385 delivered to (4, 1).
+Order 382 delivered to (1, 3).
+Order 389 delivered to (2, 6).
+Order 383 delivered to (1, 2).
+Order 363 is ready for delivery.
+Order 361 is ready for delivery.
+Order 364 is ready for delivery.
+Client connected from 192.168.1.48:50260
+Received order 406: x=3, y=1
+Client connected. Current number of clients: 335
+Client connected from 192.168.1.48:49220
+Received order 407: x=-1, y=-8
+Client connected. Current number of clients: 336
+Order 362 delivered to (3, -2).
+Client connected from 192.168.1.48:46844
+Received order 408: x=3, y=-4
+Client connected. Current number of clients: 337
+Received order 409: x=-3, y=7
+Client connected. Current number of clients: 338
+Client connected from 192.168.1.48:47428
+Client connected from 192.168.1.48:47366
+Received order 410: x=-2, y=-8
+Client connected. Current number of clients: 339
+Received order 411: x=1, y=-7
+Client connected. Current number of clients: 340
+Client connected from 192.168.1.48:48096
+Client connected from 192.168.1.48:47544
+Received order 412: x=0, y=4
+Client connected. Current number of clients: 341
+Client connected from 192.168.1.48:46824
+Received order 413: x=-2, y=-1
+Client connected. Current number of clients: 342
+Client connected from 192.168.1.48:46936
+Received order 414: x=2, y=-8
+Client connected. Current number of clients: 343
+Client connected from 192.168.1.48:47156
+Received order 415: x=2, y=2
+Client connected. Current number of clients: 344
+Client connected from 192.168.1.48:47844
+Received order 416: x=-2, y=-7
+Client connected. Current number of clients: 345
+Client connected from 192.168.1.48:47166
+Received order 417: x=-2, y=-9
+Client connected. Current number of clients: 346
+Client connected from 192.168.1.48:47996
+Received order 418: x=-1, y=2
+Client connected. Current number of clients: 347
+Received order 419: x=-3, y=6
+Client connected. Current number of clients: 348
+Client connected from 192.168.1.48:46786
+Order 387 delivered to (4, 3).
+Order 367 is ready for delivery.
+Order 388 delivered to (-2, -9).
+Order 358 is ready for delivery.
+Order 419 is ready for delivery.
+Order 384 delivered to (-2, 6).
+Order 360 is ready for delivery.
+Order 368 delivered to (-4, 6).
+Order 417 is ready for delivery.
+Order 359 is ready for delivery.
+Order 386 delivered to (4, 6).
+Order 357 is ready for delivery.
+Order 418 is ready for delivery.
+Order 415 is ready for delivery.
+Order 364 delivered to (-4, 7).
+Order 411 is ready for delivery.
+Order 419 delivered to (-3, 6).
+Order 361 delivered to (2, 8).
+Order 415 delivered to (2, 2).
+Order 416 is ready for delivery.
+Order 414 is ready for delivery.
+Order 418 delivered to (-1, 2).
+Order 367 delivered to (-2, -9).
+Order 360 delivered to (-5, 7).
+Order 359 delivered to (-5, 7).
+Order 412 is ready for delivery.
+Order 413 is ready for delivery.
+Order 410 is ready for delivery.
+Order 408 is ready for delivery.
+Order 411 delivered to (1, -7).
+Order 409 is ready for delivery.
+Order 416 delivered to (-2, -7).
+Order 407 is ready for delivery.
+Order 406 is ready for delivery.
+Order 357 delivered to (-3, 9).
+Order 414 delivered to (2, -8).
+Order 347 is ready for delivery.
+Order 355 is ready for delivery.
+Order 417 delivered to (-2, -9).
+Order 356 is ready for delivery.
+Order 343 is ready for delivery.
+Order 408 delivered to (3, -4).
+Order 406 delivered to (3, 1).
+Order 358 delivered to (4, -10).
+Order 342 is ready for delivery.
+Order 344 is ready for delivery.
+Order 355 delivered to (-1, 3).
+Order 409 delivered to (-3, 7).
+Order 346 is ready for delivery.
+Order 345 is ready for delivery.
+Order 342 delivered to (-1, -1).
+Order 341 is ready for delivery.
+Order 407 delivered to (-1, -8).
+Order 339 is ready for delivery.
+Order 338 is ready for delivery.
+Order 337 is ready for delivery.
+Order 344 delivered to (1, -5).
+Order 331 is ready for delivery.
+Order 332 is ready for delivery.
+Order 347 delivered to (4, 8).
+Order 356 delivered to (-4, -9).
+Order 340 is ready for delivery.
+Order 343 delivered to (-5, -10).
+Order 345 delivered to (1, -6).
+Order 341 delivered to (-4, -3).
+Order 334 is ready for delivery.
+Order 332 delivered to (4, 0).
+Order 333 is ready for delivery.
+Order 328 is ready for delivery.
+Order 329 is ready for delivery.
+Order 330 is ready for delivery.
+Order 327 is ready for delivery.
+Order 340 delivered to (4, -3).
+Order 338 delivered to (4, 4).
+Order 339 delivered to (-5, -3).
+Order 337 delivered to (4, 9).
+Order 330 delivered to (-1, 1).
+Order 326 is ready for delivery.
+Order 325 is ready for delivery.
+Order 324 is ready for delivery.
+Order 331 delivered to (-4, -10).
+Order 328 delivered to (3, -2).
+Order 319 is ready for delivery.
+Order 320 is ready for delivery.
+Order 316 is ready for delivery.
+Order 334 delivered to (2, -7).
+Order 318 is ready for delivery.
+Order 317 is ready for delivery.
+Order 314 is ready for delivery.
+Order 329 delivered to (3, -4).
+Order 312 is ready for delivery.
+Order 315 is ready for delivery.
+Order 327 delivered to (-2, 7).
+Order 309 is ready for delivery.
+Order 325 delivered to (-4, -5).
+Order 333 delivered to (2, -10).
+Order 314 delivered to (4, -5).
+Order 324 delivered to (2, -8).
+Order 313 is ready for delivery.
+Order 311 is ready for delivery.
+Order 310 is ready for delivery.
+Order 306 is ready for delivery.
+Order 316 delivered to (4, -9).
+Order 318 delivered to (1, -2).
+Order 307 is ready for delivery.
+Order 315 delivered to (-3, 7).
+Order 303 is ready for delivery.
+Order 305 is ready for delivery.
+Order 309 delivered to (-3, 6).
+Order 302 is ready for delivery.
+Order 301 is ready for delivery.
+Order 304 is ready for delivery.
+Client connected from 192.168.1.48:46444
+Received order 420: x=-4, y=2
+Client connected. Current number of clients: 287
+Client connected from 192.168.1.48:46400
+Received order 421: x=0, y=-10
+Client connected. Current number of clients: 288
+Client connected from 192.168.1.48:48124
+Received order 422: x=-1, y=-3
+Client connected. Current number of clients: 289
+Client connected from 192.168.1.48:46716
+Received order 423: x=0, y=-7
+Client connected. Current number of clients: 290
+Client connected from 192.168.1.48:47460
+Received order 424: x=-2, y=-7
+Client connected. Current number of clients: 291
+Received order 425: x=-4, y=2
+Client connected. Current number of clients: 292
+Client connected from 192.168.1.48:46816
+Client connected from 192.168.1.48:47668
+Received order 426: x=0, y=3
+Client connected. Current number of clients: 293
+Client connected from 192.168.1.48:46978
+Received order 427: x=4, y=-5
+Client connected. Current number of clients: 294
+Received order 428: x=-2, y=5
+Client connected. Current number of clients: 295
+Client connected from 192.168.1.48:47688
+Client connected from 192.168.1.48:47044
+Received order 429: x=-1, y=-4
+Client connected. Current number of clients: 296
+Received order 430: x=0, y=5
+Client connected. Current number of clients: 297
+Client connected from 192.168.1.48:47564
+Client connected from 192.168.1.48:46280
+Received order 431: x=1, y=3
+Client connected. Current number of clients: 298
+Received order 432: x=0, y=2
+Client connected. Current number of clients: 299
+Client connected from 192.168.1.48:47208
+Client connected from 192.168.1.48:47256
+Received order 433: x=-2, y=-9
+Client connected. Current number of clients: 300
+Client connected from 192.168.1.48:47496
+Received order 434: x=0, y=-3
+Client connected. Current number of clients: 301
+Received order 435: x=-2, y=7
+Client connected. Current number of clients: 302
+Client connected from 192.168.1.48:47586
+Client connected from 192.168.1.48:47674
+Received order 436: x=-5, y=-3
+Client connected. Current number of clients: 303
+Order 306 delivered to (-3, 0).
+Order 312 delivered to (-3, -6).
+Order 310 delivered to (-1, -5).
+Order 297 is ready for delivery.
+Order 317 delivered to (-5, -7).
+Order 299 is ready for delivery.
+Order 298 is ready for delivery.
+Order 295 is ready for delivery.
+Order 434 is ready for delivery.
+Order 300 is ready for delivery.
+Order 301 delivered to (-1, 5).
+Order 435 is ready for delivery.
+Order 433 is ready for delivery.
+Order 307 delivered to (-1, -9).
+Order 305 delivered to (-4, -8).
+Order 297 delivered to (1, -5).
+Order 304 delivered to (-1, 8).
+Order 302 delivered to (0, -6).
+Order 436 is ready for delivery.
+Order 432 is ready for delivery.
+Order 434 delivered to (0, -3).
+Order 428 is ready for delivery.
+Order 431 is ready for delivery.
+Order 429 is ready for delivery.
+Order 432 delivered to (0, 2).
+Order 430 is ready for delivery.
+Order 300 delivered to (-4, -7).
+Order 435 delivered to (-2, 7).
+Order 423 is ready for delivery.
+Order 427 is ready for delivery.
+Order 295 delivered to (-5, 6).
+Order 433 delivered to (-2, -9).
+Order 429 delivered to (-1, -4).
+Order 298 delivered to (-1, -9).
+Order 431 delivered to (1, 3).
+Order 426 is ready for delivery.
+Order 425 is ready for delivery.
+Order 430 delivered to (0, 5).
+Order 424 is ready for delivery.
+Order 420 is ready for delivery.
+Order 294 is ready for delivery.
+Order 422 is ready for delivery.
+Order 421 is ready for delivery.
+Order 427 delivered to (4, -5).
+Order 289 is ready for delivery.
+Order 428 delivered to (-2, 5).
+Order 436 delivered to (-5, -3).
+Order 292 is ready for delivery.
+Order 423 delivered to (0, -7).
+Order 425 delivered to (-4, 2).
+Order 288 is ready for delivery.
+Order 294 delivered to (0, 2).
+Order 422 delivered to (-1, -3).
+Order 299 delivered to (4, 7).
+Order 291 is ready for delivery.
+Order 290 is ready for delivery.
+Order 287 is ready for delivery.
+Order 293 is ready for delivery.
+Order 285 is ready for delivery.
+Order 292 delivered to (3, 3).
+Order 286 is ready for delivery.
+Order 285 delivered to (1, 2).
+Order 289 delivered to (-3, -7).
+Order 420 delivered to (-4, 2).
+Order 280 is ready for delivery.
+Order 421 delivered to (0, -10).
+Order 286 delivered to (2, 3).
+Order 288 delivered to (-5, 6).
+Order 424 delivered to (-2, -7).
+Order 281 is ready for delivery.
+Order 283 is ready for delivery.
+Order 279 is ready for delivery.
+Order 293 delivered to (-4, -1).
+Order 284 is ready for delivery.
+Order 277 is ready for delivery.
+Order 280 delivered to (-3, 0).
+Order 287 delivered to (4, 3).
+Order 282 is ready for delivery.
+Order 290 delivered to (-3, 1).
+Order 426 delivered to (0, 3).
+Order 279 delivered to (-4, -4).
+Order 278 is ready for delivery.
+Order 277 delivered to (-4, -3).
+Order 276 is ready for delivery.
+Order 291 delivered to (-1, 8).
+Order 278 delivered to (1, 0).
+Order 275 is ready for delivery.
+Order 274 is ready for delivery.
+Order 284 delivered to (0, 7).
+Order 273 is ready for delivery.
+Order 276 delivered to (-1, -2).
+Order 274 delivered to (-1, -1).
+Order 272 is ready for delivery.
+Order 271 is ready for delivery.
+Order 282 delivered to (-4, -7).
+Order 303 delivered to (3, 0).
+Order 275 delivered to (1, 1).
+Order 269 is ready for delivery.
+Order 267 is ready for delivery.
+Order 281 delivered to (-5, 4).
+Order 283 delivered to (3, -9).
+Order 272 delivered to (-2, 0).
+Order 268 is ready for delivery.
+Order 269 delivered to (-2, -1).
+Order 270 is ready for delivery.
+Order 265 is ready for delivery.
+Order 313 delivered to (2, -2).
+Order 264 is ready for delivery.
+Order 311 delivered to (3, 5).
+Order 263 is ready for delivery.
+Order 260 is ready for delivery.
+Order 266 is ready for delivery.
+Order 262 is ready for delivery.
+Order 271 delivered to (-4, -8).
+Order 265 delivered to (-3, -3).
+Order 273 delivered to (-5, -9).
+Order 267 delivered to (1, -8).
+Order 261 is ready for delivery.
+Order 257 is ready for delivery.
+Order 259 is ready for delivery.
+Order 268 delivered to (-1, 7).
+Order 255 is ready for delivery.
+Order 266 delivered to (3, -1).
+Order 252 is ready for delivery.
+Order 260 delivered to (-1, -3).
+Order 258 is ready for delivery.
+Order 264 delivered to (-3, -8).
+Order 256 is ready for delivery.
+Order 253 is ready for delivery.
+Order 258 delivered to (1, 2).
+Order 262 delivered to (-4, -8).
+Order 263 delivered to (-2, 7).
+Order 255 delivered to (4, -4).
+Order 254 is ready for delivery.
+Order 251 is ready for delivery.
+Order 257 delivered to (2, 2).
+Order 259 delivered to (-4, -7).
+Order 250 is ready for delivery.
+Order 249 is ready for delivery.
+Order 247 is ready for delivery.
+Order 248 is ready for delivery.
+Order 252 delivered to (-4, -8).
+Order 253 delivered to (-4, -3).
+Order 254 delivered to (-3, -2).
+Order 244 is ready for delivery.
+Order 246 is ready for delivery.
+Order 261 delivered to (-5, -8).
+Order 247 delivered to (1, 5).
+Order 245 is ready for delivery.
+Order 242 is ready for delivery.
+Order 256 delivered to (-3, -10).
+Order 249 delivered to (-5, 3).
+Order 243 is ready for delivery.
+Order 251 delivered to (-1, 9).
+Order 244 delivered to (2, 1).
+Order 248 delivered to (1, -8).
+Order 241 is ready for delivery.
+Order 237 is ready for delivery.
+Order 238 is ready for delivery.
+Order 246 delivered to (-2, 4).
+Order 250 delivered to (-2, 1).
+Order 240 is ready for delivery.
+Order 243 delivered to (-3, -1).
+Order 237 delivered to (0, 1).
+Order 242 delivered to (3, 5).
+Order 238 delivered to (2, -2).
+Order 239 is ready for delivery.
+Order 245 delivered to (2, 6).
+Order 270 delivered to (-3, 6).
+Order 319 delivered to (3, -1).
+Order 235 is ready for delivery.
+Order 234 is ready for delivery.
+Order 236 is ready for delivery.
+Order 233 is ready for delivery.
+Order 239 delivered to (3, -4).
+Order 231 is ready for delivery.
+Order 232 is ready for delivery.
+Order 229 is ready for delivery.
+Order 240 delivered to (3, 9).
+Order 346 delivered to (-2, -5).
+Order 241 delivered to (2, -9).
+Order 230 is ready for delivery.
+Order 225 is ready for delivery.
+Order 320 delivered to (-2, 9).
+Order 223 is ready for delivery.
+Order 326 delivered to (-5, 6).
+Order 233 delivered to (-5, 1).
+Order 229 delivered to (2, 4).
+Order 228 is ready for delivery.
+Order 232 delivered to (-4, -4).
+Order 224 is ready for delivery.
+Order 227 is ready for delivery.
+Order 220 is ready for delivery.
+Order 221 is ready for delivery.
+Order 218 is ready for delivery.
+Order 217 is ready for delivery.
+Order 223 delivered to (3, 5).
+Order 222 is ready for delivery.
+Order 236 delivered to (-1, 4).
+Order 225 delivered to (4, 7).
+Order 217 delivered to (1, 2).
+Order 231 delivered to (1, -9).
+Order 214 is ready for delivery.
+Order 220 delivered to (-1, 0).
+Order 228 delivered to (3, 7).
+Order 230 delivered to (1, -9).
+Order 219 is ready for delivery.
+Order 216 is ready for delivery.
+Order 215 is ready for delivery.
+Order 212 is ready for delivery.
+Order 218 delivered to (-3, -4).
+Order 224 delivered to (2, 1).
+Order 213 is ready for delivery.
+Order 221 delivered to (2, 6).
+Order 207 is ready for delivery.
+Order 214 delivered to (-2, -6).
+Order 211 is ready for delivery.
+Order 209 is ready for delivery.
+Order 208 is ready for delivery.
+Order 222 delivered to (-1, -10).
+Order 213 delivered to (2, 3).
+Order 210 is ready for delivery.
+Order 204 is ready for delivery.
+Order 227 delivered to (-4, -9).
+Order 215 delivered to (-5, -6).
+Order 203 is ready for delivery.
+Order 208 delivered to (-3, -3).
+Order 205 is ready for delivery.
+Order 206 is ready for delivery.
+Order 212 delivered to (0, 9).
+Order 209 delivered to (1, 6).
+Order 207 delivered to (-5, 7).
+Order 199 is ready for delivery.
+Order 202 is ready for delivery.
+Order 211 delivered to (-3, -2).
+Order 201 is ready for delivery.
+Order 200 is ready for delivery.
+Order 197 is ready for delivery.
+Order 203 delivered to (1, -6).
+Order 198 is ready for delivery.
+Order 194 is ready for delivery.
+Order 193 is ready for delivery.
+Order 202 delivered to (-2, -1).
+Order 196 is ready for delivery.
+Order 190 is ready for delivery.
+Order 197 delivered to (-1, 2).
+Order 210 delivered to (4, 9).
+Order 195 is ready for delivery.
+Order 188 is ready for delivery.
+Order 205 delivered to (4, 6).
+Order 204 delivered to (1, -10).
+Order 192 is ready for delivery.
+Order 187 is ready for delivery.
+Order 191 is ready for delivery.
+Order 206 delivered to (-1, -10).
+Order 186 is ready for delivery.
+Order 191 delivered to (1, 1).
+Order 184 is ready for delivery.
+Order 182 is ready for delivery.
+Order 189 is ready for delivery.
+Order 179 is ready for delivery.
+Order 193 delivered to (-5, -5).
+Order 181 is ready for delivery.
+Order 186 delivered to (0, -4).
+Order 195 delivered to (3, 7).
+Order 185 is ready for delivery.
+Order 188 delivered to (-4, 8).
+Order 190 delivered to (-3, 9).
+Order 196 delivered to (3, 9).
+Order 180 is ready for delivery.
+Order 183 is ready for delivery.
+Order 189 delivered to (-3, -1).
+Order 179 delivered to (-2, 5).
+Order 178 is ready for delivery.
+Order 180 delivered to (-1, 1).
+Order 176 is ready for delivery.
+Order 173 is ready for delivery.
+Order 183 delivered to (0, -2).
+Order 175 is ready for delivery.
+Order 185 delivered to (0, 5).
+Order 177 is ready for delivery.
+Order 181 delivered to (-2, -7).
+Order 173 delivered to (2, -1).
+Order 172 is ready for delivery.
+Order 184 delivered to (0, 7).
+Order 178 delivered to (-4, -2).
+Order 168 is ready for delivery.
+Order 171 is ready for delivery.
+Order 182 delivered to (-1, -8).
+Order 174 is ready for delivery.
+Order 172 delivered to (-2, -1).
+Order 176 delivered to (2, -3).
+Order 175 delivered to (-3, 5).
+Order 177 delivered to (-4, -1).
+Order 168 delivered to (-1, 0).
+Order 166 is ready for delivery.
+Order 194 delivered to (-1, -1).
+Order 170 is ready for delivery.
+Order 171 delivered to (-4, -1).
+Order 169 is ready for delivery.
+Order 174 delivered to (2, 4).
+Order 167 is ready for delivery.
+Order 164 is ready for delivery.
+Order 162 is ready for delivery.
+Order 169 delivered to (0, -1).
+Order 163 is ready for delivery.
+Order 165 is ready for delivery.
+Order 159 is ready for delivery.
+Order 187 delivered to (2, 8).
+Order 198 delivered to (2, -6).
+Order 166 delivered to (-5, 4).
+Order 159 delivered to (-2, 1).
+Order 156 is ready for delivery.
+Order 192 delivered to (4, 7).
+Order 161 is ready for delivery.
+Order 164 delivered to (-2, -3).
+Order 158 is ready for delivery.
+Order 160 is ready for delivery.
+Order 170 delivered to (2, -9).
+Order 157 is ready for delivery.
+Order 156 delivered to (1, -4).
+Order 163 delivered to (3, -5).
+Order 162 delivered to (-3, 8).
+Order 154 is ready for delivery.
+Order 165 delivered to (-3, -7).
+Order 158 delivered to (1, -2).
+Order 160 delivered to (-3, 1).
+Order 161 delivered to (4, -1).
+Order 155 is ready for delivery.
+Order 157 delivered to (4, 2).
+Order 167 delivered to (4, 0).
+Order 152 is ready for delivery.
+Order 149 is ready for delivery.
+Order 154 delivered to (-4, 1).
+Order 153 is ready for delivery.
+Order 151 is ready for delivery.
+Order 148 is ready for delivery.
+Order 150 is ready for delivery.
+Order 144 is ready for delivery.
+Order 199 delivered to (-3, 4).
+Order 147 is ready for delivery.
+Order 143 is ready for delivery.
+Order 146 is ready for delivery.
+Order 149 delivered to (-1, 4).
+Order 141 is ready for delivery.
+Order 200 delivered to (2, 9).
+Order 139 is ready for delivery.
+Order 140 is ready for delivery.
+Order 155 delivered to (0, -8).
+Order 201 delivered to (0, -10).
+Order 216 delivered to (1, 8).
+Order 145 is ready for delivery.
+Order 137 is ready for delivery.
+Order 142 is ready for delivery.
+Order 138 is ready for delivery.
+Order 136 is ready for delivery.
+Order 144 delivered to (-1, 9).
+Order 139 delivered to (-2, 5).
+Order 143 delivered to (3, -4).
+Order 133 is ready for delivery.
+Order 146 delivered to (-2, -9).
+Order 134 is ready for delivery.
+Order 132 is ready for delivery.
+Order 141 delivered to (-4, -7).
+Order 136 delivered to (-3, 1).
+Order 135 is ready for delivery.
+Order 140 delivered to (4, -7).
+Order 131 is ready for delivery.
+Order 130 is ready for delivery.
+Order 126 is ready for delivery.
+Order 142 delivered to (-5, -2).
+Order 127 is ready for delivery.
+Order 133 delivered to (-4, 3).
+Order 127 delivered to (1, 2).
+Order 129 is ready for delivery.
+Order 123 is ready for delivery.
+Order 128 is ready for delivery.
+Order 138 delivered to (0, -9).
+Order 125 is ready for delivery.
+Order 124 is ready for delivery.
+Order 132 delivered to (-3, -8).
+Order 135 delivered to (3, 7).
+Order 128 delivered to (1, -1).
+Order 134 delivered to (4, 7).
+Order 118 is ready for delivery.
+Order 126 delivered to (-1, -6).
+Order 130 delivered to (-1, -3).
+Order 122 is ready for delivery.
+Order 129 delivered to (-2, -2).
+Order 119 is ready for delivery.
+Order 120 is ready for delivery.
+Order 118 delivered to (-2, 1).
+Order 121 is ready for delivery.
+Order 123 delivered to (1, 5).
+Order 125 delivered to (-1, -5).
+Order 114 is ready for delivery.
+Order 117 is ready for delivery.
+Order 124 delivered to (1, 8).
+Order 119 delivered to (3, 2).
+Order 131 delivered to (3, -7).
+Order 115 is ready for delivery.
+Order 110 is ready for delivery.
+Order 111 is ready for delivery.
+Order 108 is ready for delivery.
+Order 113 is ready for delivery.
+Order 105 is ready for delivery.
+Order 112 is ready for delivery.
+Order 114 delivered to (2, -4).
+Order 122 delivered to (2, -10).
+Order 109 is ready for delivery.
+Order 120 delivered to (-5, -9).
+Order 102 is ready for delivery.
+Order 106 is ready for delivery.
+Order 121 delivered to (4, 9).
+Order 107 is ready for delivery.
+Order 117 delivered to (-3, -7).
+Order 105 delivered to (0, 3).
+Order 137 delivered to (1, 7).
+Order 112 delivered to (0, -4).
+Order 103 is ready for delivery.
+Order 100 is ready for delivery.
+Order 104 is ready for delivery.
+Order 96 is ready for delivery.
+Order 106 delivered to (-1, 5).
+Order 113 delivered to (1, 4).
+Order 107 delivered to (-1, -5).
+Order 102 delivered to (4, 4).
+Order 101 is ready for delivery.
+Order 98 is ready for delivery.
+Order 99 is ready for delivery.
+Order 97 is ready for delivery.
+Order 91 is ready for delivery.
+Order 109 delivered to (-2, -10).
+Order 103 delivered to (3, -2).
+Order 90 is ready for delivery.
+Order 96 delivered to (0, -5).
+Order 108 delivered to (2, -8).
+Order 99 delivered to (0, 0).
+Order 94 is ready for delivery.
+Order 93 is ready for delivery.
+Order 89 is ready for delivery.
+Order 100 delivered to (-5, 0).
+Order 92 is ready for delivery.
+Order 86 is ready for delivery.
+Order 95 is ready for delivery.
+Order 104 delivered to (-5, -5).
+Order 90 delivered to (-3, 2).
+Order 98 delivered to (2, 3).
+Order 97 delivered to (-4, -1).
+Order 88 is ready for delivery.
+Order 84 is ready for delivery.
+Order 91 delivered to (-5, 5).
+Order 93 delivered to (-2, 3).
+Order 87 is ready for delivery.
+Order 81 is ready for delivery.
+Order 85 is ready for delivery.
+Order 83 is ready for delivery.
+Order 89 delivered to (2, 7).
+Order 86 delivered to (4, 3).
+Order 92 delivered to (3, 4).
+Order 79 is ready for delivery.
+Order 84 delivered to (-3, 2).
+Order 95 delivered to (-1, 7).
+Order 82 is ready for delivery.
+Order 77 is ready for delivery.
+Order 83 delivered to (1, 4).
+Order 81 delivered to (-5, -3).
+Order 88 delivered to (2, -7).
+Order 75 is ready for delivery.
+Order 79 delivered to (-3, 4).
+Order 80 is ready for delivery.
+Order 78 is ready for delivery.
+Order 73 is ready for delivery.
+Order 85 delivered to (3, 7).
+Order 74 is ready for delivery.
+Order 76 is ready for delivery.
+Order 82 delivered to (-3, -5).
+Order 87 delivered to (4, 9).
+Order 94 delivered to (2, 5).
+Order 77 delivered to (1, -7).
+Order 75 delivered to (-4, 4).
+Order 78 delivered to (-1, -1).
+Order 76 delivered to (-3, 0).
+Order 72 is ready for delivery.
+Order 68 is ready for delivery.
+Order 71 is ready for delivery.
+Order 66 is ready for delivery.
+Order 65 is ready for delivery.
+Order 73 delivered to (-4, 7).
+Order 110 delivered to (1, 2).
+Order 70 is ready for delivery.
+Order 69 is ready for delivery.
+Order 64 is ready for delivery.
+Order 65 delivered to (0, -1).
+Order 67 is ready for delivery.
+Order 59 is ready for delivery.
+Order 63 is ready for delivery.
+Order 80 delivered to (2, -8).
+Order 74 delivered to (-1, -9).
+Order 58 is ready for delivery.
+Order 101 delivered to (-5, -9).
+Order 111 delivered to (-5, -9).
+Order 60 is ready for delivery.
+Order 66 delivered to (3, -7).
+Order 58 delivered to (1, 0).
+Order 62 is ready for delivery.
+Order 61 is ready for delivery.
+Order 57 is ready for delivery.
+Order 63 delivered to (-5, -3).
+Order 64 delivered to (-2, 9).
+Order 54 is ready for delivery.
+Order 52 is ready for delivery.
+Order 67 delivered to (-1, -5).
+Order 56 is ready for delivery.
+Order 55 is ready for delivery.
+Order 69 delivered to (2, 6).
+Order 60 delivered to (-2, -7).
+Order 59 delivered to (0, -10).
+Order 53 is ready for delivery.
+Order 57 delivered to (-5, 4).
+Order 52 delivered to (-2, -4).
+Order 61 delivered to (-2, 6).
+Order 49 is ready for delivery.
+Order 48 is ready for delivery.
+Order 51 is ready for delivery.
+Order 47 is ready for delivery.
+Order 50 is ready for delivery.
+Order 54 delivered to (-5, 1).
+Order 45 is ready for delivery.
+Order 70 delivered to (-3, -3).
+Order 56 delivered to (-4, -6).
+Order 55 delivered to (4, 7).
+Order 44 is ready for delivery.
+Order 53 delivered to (-5, -7).
+Order 62 delivered to (3, -8).
+Order 46 is ready for delivery.
+Order 43 is ready for delivery.
+Order 42 is ready for delivery.
+Order 40 is ready for delivery.
+Order 51 delivered to (-1, 5).
+Order 41 is ready for delivery.
+Order 50 delivered to (-2, 8).
+Order 45 delivered to (-1, -8).
+Order 47 delivered to (-2, 7).
+Order 41 delivered to (0, -1).
+Order 36 is ready for delivery.
+Order 44 delivered to (-4, -5).
+Order 39 is ready for delivery.
+Order 38 is ready for delivery.
+Order 37 is ready for delivery.
+Order 36 delivered to (0, -2).
+Order 40 delivered to (4, -4).
+Order 48 delivered to (2, -8).
+Order 35 is ready for delivery.
+Order 34 is ready for delivery.
+Order 43 delivered to (-3, 7).
+Order 33 is ready for delivery.
+Order 32 is ready for delivery.
+Order 42 delivered to (0, 8).
+Order 46 delivered to (-5, 7).
+Order 27 is ready for delivery.
+Order 30 is ready for delivery.
+Order 32 delivered to (1, 0).
+Order 34 delivered to (1, -3).
+Order 29 is ready for delivery.
+Order 37 delivered to (2, -8).
+Order 39 delivered to (-1, 8).
+Order 33 delivered to (2, 3).
+Order 24 is ready for delivery.
+Order 38 delivered to (-1, 9).
+Order 26 is ready for delivery.
+Order 28 is ready for delivery.
+Order 21 is ready for delivery.
+Order 30 delivered to (-1, 5).
+Order 25 is ready for delivery.
+Order 49 delivered to (0, -4).
+Order 20 is ready for delivery.
+Order 23 is ready for delivery.
+Order 27 delivered to (1, -7).
+Order 18 is ready for delivery.
+Order 16 is ready for delivery.
+Order 22 is ready for delivery.
+Order 29 delivered to (-4, 7).
+Order 24 delivered to (0, -7).
+Order 19 is ready for delivery.
+Order 35 delivered to (-3, -9).
+Order 21 delivered to (3, 8).
+Order 17 is ready for delivery.
+Order 19 delivered to (3, 2).
+Order 25 delivered to (-3, -8).
+Order 12 is ready for delivery.
+Order 22 delivered to (1, 5).
+Order 15 is ready for delivery.
+Order 14 is ready for delivery.
+Order 9 is ready for delivery.
+Order 13 is ready for delivery.
+Order 23 delivered to (-4, -9).
+Order 16 delivered to (0, -7).
+Order 13 delivered to (-1, 1).
+Order 8 is ready for delivery.
+Order 10 is ready for delivery.
+Order 18 delivered to (1, -6).
+Order 11 is ready for delivery.
+Order 6 is ready for delivery.
+Order 7 is ready for delivery.
+Order 20 delivered to (-5, 6).
+Order 12 delivered to (0, -7).
+Order 17 delivered to (3, -8).
+Order 10 delivered to (-5, 4).
+Order 14 delivered to (0, 7).
+Order 6 delivered to (-3, -2).
+Order 9 delivered to (4, -7).
+Order 7 delivered to (4, 4).
+Order 28 delivered to (2, 3).
+Order 15 delivered to (3, -3).
+Order 26 delivered to (-4, 1).
+Order 11 delivered to (4, -6).
+Order 8 delivered to (-3, 5).
+Order 147 delivered to (1, -2).
+Order 72 delivered to (-2, 3).
+Order 68 delivered to (1, -4).
+Order 71 delivered to (3, -6).
+Order 145 delivered to (4, 2).
+Order 115 delivered to (-5, -2).
+Order 153 delivered to (-3, -4).
+Order 150 delivered to (1, -6).
+Order 151 delivered to (-2, -6).
+Order 148 delivered to (-3, -6).
+Order 152 delivered to (1, 6).
+Order 413 delivered to (-2, -1).
+Order 363 delivered to (0, 2).
+Order 235 delivered to (-5, 2).
+Order 219 delivered to (-5, 8).
+Order 412 delivered to (0, 4).
+Order 398 delivered to (0, -1).
+Order 392 delivered to (-1, 3).
+Order 234 delivered to (-3, 8).
+Order 410 delivered to (-2, -8).
+Order 391 delivered to (-1, 5).
+Order 403 delivered to (-3, -3).
+Order 402 delivered to (3, 3).
+Order 397 delivered to (0, -9).
+Order 321 delivered to (-3, 7).
+Server terminated.
+Client connected from 192.168.1.48:56412
+Received order 1: x=-4, y=-5
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:56428
+Client connected from 192.168.1.48:56426
+Received order 2: x=2, y=6
+Client connected. Current number of clients: 0
+Received order 3: x=1, y=0
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:56398
+Received order 4: x=2, y=3
+Client connected from 192.168.1.48:56434
+Received order 5: x=3, y=-1
+Client connected. Current number of clients: 2
+Client connected from 192.168.1.48:56446
+Received order 6: x=-2, y=-2
+Client connected. Current number of clients: 2
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:56460
+Received order 7: x=-4, y=0
+Client connected. Current number of clients: 2
+Client connected from 192.168.1.48:56462
+Received order 8: x=2, y=6
+Client connected. Current number of clients: 3
+Client connected from 192.168.1.48:56470
+Received order 9: x=1, y=-5
+Client connected. Current number of clients: 4
+Client connected from 192.168.1.48:56476
+Received order 10: x=1, y=0
+Client connected. Current number of clients: 5
+Order 5 is ready for delivery.
+Order 10 is ready for delivery.
+Order 2 is ready for delivery.
+Order 10 delivered to (1, 0).
+Order 3 is ready for delivery.
+Order 5 delivered to (3, -1).
+Order 3 delivered to (1, 0).
+Order 9 is ready for delivery.
+Order 1 is ready for delivery.
+Order 6 is ready for delivery.
+Order 8 is ready for delivery.
+Order 6 delivered to (-2, -2).
+Order 4 is ready for delivery.
+Order 2 delivered to (2, 6).
+Order 9 delivered to (1, -5).
+Order 7 is ready for delivery.
+Order 4 delivered to (2, 3).
+Order 1 delivered to (-4, -5).
+Order 8 delivered to (2, 6).
+Order 7 delivered to (-4, 0).
+Client connected from 192.168.1.48:40484
+Client connected from 192.168.1.48:40486
+Client connected from 192.168.1.48:40492
+Client connected from 192.168.1.48:40498
+Client connected from 192.168.1.48:40500
+Received order 11: x=-1, y=9
+Client connected. Current number of clients: 1
+Received order 12: x=-5, y=-9
+Client connected. Current number of clients: 1
+Received order 13: x=-3, y=-6
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:40502
+Received order 14: x=3, y=-4
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:40506
+Client connected from 192.168.1.48:40522
+Received order 15: x=1, y=6
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:40528
+Received order 16: x=2, y=6
+Client connected. Current number of clients: 1
+Received order 17: x=1, y=1
+Client connected. Current number of clients: 2
+Received order 18: x=-4, y=1
+Client connected. Current number of clients: 3
+Client connected from 192.168.1.48:40530
+Received order 19: x=3, y=2
+Client connected. Current number of clients: 4
+Received order 20: x=0, y=-5
+Client connected. Current number of clients: 5
+Order 13 is ready for delivery.
+Order 11 is ready for delivery.
+Order 12 is ready for delivery.
+Order 20 is ready for delivery.
+Order 19 is ready for delivery.
+Order 15 is ready for delivery.
+Order 18 is ready for delivery.
+Order 13 delivered to (-3, -6).
+Order 14 is ready for delivery.
+Order 16 is ready for delivery.
+Order 19 delivered to (3, 2).
+Order 17 is ready for delivery.
+Order 20 delivered to (0, -5).
+Order 17 delivered to (1, 1).
+Order 18 delivered to (-4, 1).
+Order 15 delivered to (1, 6).
+Order 11 delivered to (-1, 9).
+Order 12 delivered to (-5, -9).
+Order 16 delivered to (2, 6).
+Order 14 delivered to (3, -4).
+Client connected from 192.168.1.48:43660
+Client connected from 192.168.1.48:43662
+Client connected from 192.168.1.48:43674
+Client connected from 192.168.1.48:43682
+Client connected from 192.168.1.48:43694
+Received order 21: x=1, y=-9
+Client connected. Current number of clients: 1
+Received order 22: x=-5, y=-3
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:43700
+Client connected from 192.168.1.48:43712
+Received order 23: x=-3, y=-10
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:43716
+Received order 24: x=-3, y=-7
+Client connected. Current number of clients: 0
+Received order 25: x=-3, y=-9
+Client connected. Current number of clients: 1
+Received order 26: x=-5, y=8
+Client connected. Current number of clients: 1
+Client connected from 192.168.1.48:43730
+Received order 27: x=0, y=-5
+Client connected. Current number of clients: 2
+Received order 28: x=-5, y=7
+Client connected. Current number of clients: 3
+Received order 29: x=2, y=9
+Client connected. Current number of clients: 4
+Client connected from 192.168.1.48:43732
+Received order 30: x=2, y=-5
+Client connected. Current number of clients: 5
+Order 21 is ready for delivery.
+Order 23 is ready for delivery.
+Order 25 is ready for delivery.
+Order 30 is ready for delivery.
+Order 22 is ready for delivery.
+Order 26 is ready for delivery.
+Order 24 is ready for delivery.
+Order 29 is ready for delivery.
+Order 27 is ready for delivery.
+Order 30 delivered to (2, -5).
+Order 28 is ready for delivery.
+Order 22 delivered to (-5, -3).
+Order 21 delivered to (1, -9).
+Order 25 delivered to (-3, -9).
+Order 23 delivered to (-3, -10).
+Order 27 delivered to (0, -5).
+Order 26 delivered to (-5, 8).
+Order 28 delivered to (-5, 7).
+Order 24 delivered to (-3, -7).
+Order 29 delivered to (2, 9).

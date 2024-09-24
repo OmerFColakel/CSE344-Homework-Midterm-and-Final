@@ -1,0 +1,1064 @@
+2024-03-20 16:27:43-Creating file.
+2024-03-20 16:27:43-File created successfully.
+2024-03-20 16:27:48-Creating file.
+2024-03-20 16:27:48-File already exists.2024-03-20 19:07:08-Usage printed.
+2024-03-20 19:07:08-Usage printed.
+2024-03-20 19:22:10-Usage printed.
+2024-03-20 19:22:10-Usage printed.
+2024-03-20 19:22:25-Adding student grade.
+2024-03-20 19:22:25-Student grade added successfully.
+2024-03-20 22:14:49-Searching for student.
+2024-03-20 22:14:49-Student found.
+2024-03-20 22:16:25-Usage printed.
+2024-03-20 22:16:25-Usage printed.
+2024-03-20 22:16:47-Searching for student.
+2024-03-20 22:16:47-Student found.
+2024-03-20 22:17:30-Adding student grade.
+2024-03-20 22:17:30-Student grade added successfully.
+2024-03-20 22:17:47-Searching for student.
+2024-03-20 22:17:47-Student found.
+2024-03-20 22:18:36-Usage printed.
+2024-03-20 22:18:36-Usage printed.
+2024-03-20 22:18:37-Usage printed.
+2024-03-20 22:18:37-Usage printed.
+2024-03-20 22:18:38-Usage printed.
+2024-03-20 22:18:38-Usage printed.
+2024-03-20 22:18:38-Usage printed.
+2024-03-20 22:18:38-Usage printed.
+2024-03-20 22:18:40-Usage printed.
+2024-03-20 22:18:40-Usage printed.
+2024-03-20 22:18:54-Listing grades.
+2024-03-20 22:18:54-First 5 entries listed.
+2024-03-20 22:18:56-Usage printed.
+2024-03-20 22:18:56-Usage printed.
+2024-03-20 22:19:20-Listing grades.
+2024-03-20 22:19:20-First 5 entries listed.
+2024-03-20 22:19:21-Usage printed.
+2024-03-20 22:19:21-Usage printed.
+2024-03-20 22:36:13-Listing grades.
+2024-03-20 22:36:13-First 5 entries listed.
+2024-03-20 22:37:06-Usage printed.
+2024-03-20 22:37:06-Usage printed.
+2024-03-20 22:37:18-Usage printed.
+2024-03-20 22:37:18-Usage printed.
+2024-03-20 22:37:27-Usage printed.
+2024-03-20 22:37:27-Usage printed.
+2024-03-20 22:37:44-Showing all students.
+2024-03-20 22:37:44-All students and their grades listed.
+2024-03-20 22:37:51-Forked successfully.2024-03-20 22:41:01-Usage printed.
+2024-03-20 22:41:01-Usage printed.
+2024-03-20 22:41:20-Forked successfully.2024-03-20 22:49:22-Listing grades.
+2024-03-20 22:49:22-First 5 entries listed.
+2024-03-20 22:52:04-Listing grades.
+2024-03-20 22:52:04-First 5 entries listed.
+2024-03-20 22:52:12-Forked successfully.2024-03-20 22:52:18-Usage printed.
+2024-03-20 22:52:18-Usage printed.
+2024-03-20 22:52:28-Usage printed.
+2024-03-20 22:52:28-Usage printed.
+2024-03-20 22:53:17-Listing grades.
+2024-03-20 22:53:17-First 5 entries listed.
+2024-03-20 22:53:34-Listing grades.
+2024-03-20 22:53:34-First 5 entries listed.
+2024-03-20 22:54:49-Adding student grade.
+2024-03-20 22:54:49-Student grade added successfully.
+2024-03-20 22:59:07-Usage printed.
+2024-03-20 22:59:07-Usage printed.
+2024-03-20 22:59:10-Usage printed.
+2024-03-20 22:59:10-Usage printed.
+2024-03-20 22:59:13-Forked successfully.2024-03-20 23:02:32-Usage printed.
+2024-03-20 23:02:32-Usage printed.
+2024-03-20 23:02:33-Usage printed.
+2024-03-20 23:02:33-Usage printed.
+2024-03-20 23:02:36-Usage printed.
+2024-03-20 23:02:36-Usage printed.
+2024-03-20 23:02:38-Exiting.
+2024-03-20 23:04:23-Error reading from stdin.
+2024-03-20 23:04:23-Usage printed.
+2024-03-20 23:04:23-Usage printed.
+2024-03-20 23:04:23-Error reading from stdin.
+2024-03-20 23:04:25-Error reading from stdin.
+2024-03-20 23:04:25-Usage printed.
+2024-03-20 23:04:25-Usage printed.
+2024-03-20 23:04:25-Error reading from stdin.
+2024-03-20 23:04:26-Error reading from stdin.
+2024-03-20 23:04:26-Usage printed.
+2024-03-20 23:04:26-Usage printed.
+2024-03-20 23:04:26-Error reading from stdin.
+2024-03-20 23:04:26-Usage printed.
+2024-03-20 23:04:26-Usage printed.
+2024-03-20 23:04:26-Usage printed.
+2024-03-20 23:04:26-Usage printed.
+2024-03-20 23:04:32-Usage printed.
+2024-03-20 23:04:32-Usage printed.
+2024-03-20 23:04:33-Usage printed.
+2024-03-20 23:04:33-Usage printed.
+2024-03-20 23:04:35-Exiting.
+2024-03-20 23:04:36-Usage printed.
+2024-03-20 23:04:36-Usage printed.
+2024-03-20 23:05:11-Usage printed.
+2024-03-20 23:05:11-Usage printed.
+2024-03-20 23:10:38-Usage printed.
+2024-03-20 23:10:38-Usage printed.
+2024-03-20 23:10:43-Usage printed.
+2024-03-20 23:10:43-Usage printed.
+2024-03-20 23:10:45-Exiting.
+2024-03-20 23:10:47-Usage printed.
+2024-03-20 23:10:47-Usage printed.
+2024-03-20 23:10:48-Usage printed.
+2024-03-20 23:10:48-Usage printed.
+2024-03-20 23:10:57-Usage printed.
+2024-03-20 23:10:57-Usage printed.
+2024-03-20 23:11:01-Forked successfully.2024-03-20 23:19:40-Usage printed.
+2024-03-20 23:19:40-Usage printed.
+2024-03-20 23:19:57-Forked successfully.2024-03-20 23:20:00-Exiting.
+2024-03-20 23:37:39-Sorting all grades.
+2024-03-20 23:39:19-Sorting all grades.
+2024-03-20 23:39:58-Sorting all grades.
+2024-03-20 23:41:13-Sorting all grades.
+2024-03-21 00:07:13-Sorting all grades.
+2024-03-21 00:10:55-Sorting all grades.
+2024-03-21 00:22:14-Sorting all grades.
+2024-03-21 00:23:46-Sorting all grades.
+2024-03-21 00:24:15-Sorting all grades.
+2024-03-21 00:24:58-Sorting all grades.
+2024-03-21 04:28:45-Sorting all grades.
+2024-03-21 04:29:08-Sorting all grades.
+2024-03-21 05:24:14-Sorting all grades.
+2024-03-21 05:28:13-Sorting all grades.
+2024-03-21 05:31:27-Sorting all grades.
+2024-03-21 05:36:07-Sorting all grades.
+2024-03-21 05:36:51-Sorting all grades.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:09-Usage printed.
+2024-03-21 05:43:11-Usage printed.
+2024-03-21 05:43:11-Usage printed.
+2024-03-21 05:43:15-Exiting.
+2024-03-21 05:43:30-Sorting all grades.
+2024-03-21 05:43:47-Sorting all grades.
+2024-03-21 05:44:34-Sorting all grades.
+2024-03-21 05:46:49-Sorting all grades.
+2024-03-21 05:47:15-Sorting all grades.
+2024-03-21 05:47:38-Usage printed.
+2024-03-21 05:47:38-Usage printed.
+2024-03-21 05:47:38-Usage printed.
+2024-03-21 05:47:38-Usage printed.
+2024-03-21 05:47:38-Usage printed.
+2024-03-21 05:47:38-Usage printed.
+2024-03-21 05:47:38-Usage printed.
+2024-03-21 05:47:38-Usage printed.
+2024-03-21 05:47:38-Usage printed.
+2024-03-21 05:47:38-Usage printed.
+2024-03-21 05:47:40-Exiting.
+2024-03-21 05:47:41-Error: Invalid command.
+2024-03-21 05:47:41-Usage printed.
+2024-03-21 05:47:49-Usage printed.
+2024-03-21 05:47:49-Usage printed.
+2024-03-21 05:47:49-Usage printed.
+2024-03-21 05:47:49-Usage printed.
+2024-03-21 05:47:49-Usage printed.
+2024-03-21 05:47:49-Usage printed.
+2024-03-21 05:47:49-Usage printed.
+2024-03-21 05:47:49-Usage printed.
+2024-03-21 05:47:52-Usage printed.
+2024-03-21 05:47:52-Usage printed.
+2024-03-21 05:47:57-Sorting all grades.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:18-Usage printed.
+2024-03-21 05:49:32-Sorting all grades.
+2024-03-21 05:51:27-Sorting all grades.
+2024-03-21 05:52:14-Sorting all grades.
+2024-03-21 05:53:11-Sorting all grades.
+2024-03-21 10:44:50-Sorting all grades.
+2024-03-21 10:45:51-Sorting all grades.
+2024-03-21 10:46:07-Sorting all grades.
+2024-03-21 10:46:17-Sorting all grades.
+2024-03-21 10:56:24-Sorting all grades.
+2024-03-21 11:03:03-Sorting all grades.
+2024-03-21 11:04:19-Sorting all grades.
+2024-03-21 11:05:26-Sorting all grades.
+2024-03-21 11:12:14-Sorting all grades.
+2024-03-21 11:17:43-Sorting all grades.
+2024-03-21 11:20:03-Sorting all grades.
+2024-03-21 11:20:28-Sorting all grades.
+2024-03-21 11:20:43-Sorting all grades.
+2024-03-21 11:21:07-Sorting all grades.
+2024-03-21 11:21:13-Sorting all grades.
+2024-03-21 11:52:41-Showing all students.
+2024-03-21 11:52:41-All students and their grades listed.
+2024-03-21 11:54:03-Sorting all grades.
+2024-03-21 11:54:34-Sorting all grades.
+2024-03-21 11:55:29-Sorting all grades.
+2024-03-21 12:02:16-Sorting all grades.
+2024-03-21 12:03:01-Sorting all grades.
+2024-03-21 12:04:14-Usage printed.
+2024-03-21 12:04:14-Usage printed.
+2024-03-21 12:04:23-Sorting all grades.
+2024-03-21 12:05:08-Sorting all grades.
+2024-03-21 12:05:24-Sorting all grades.
+2024-03-21 12:07:18-Sorting all grades.
+2024-03-21 12:07:51-Sorting all grades.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:08-Usage printed.
+2024-03-21 12:11:11-Usage printed.
+2024-03-21 12:11:11-Usage printed.
+2024-03-21 12:11:13-Exiting.
+2024-03-21 12:11:20-Sorting all grades.
+2024-03-21 12:12:38-Adding student grade.
+2024-03-21 12:12:38-Student grade added successfully.
+2024-03-21 12:13:03-Adding student grade.
+2024-03-21 12:13:03-Student grade added successfully.
+2024-03-21 12:13:19-Adding student grade.
+2024-03-21 12:13:19-Student grade added successfully.
+2024-03-21 12:13:58-Sorting all grades.
+2024-03-21 12:14:26-Sorting all grades.
+2024-03-21 12:16:42-Sorting all grades.
+2024-03-21 12:21:19-Sorting all grades.
+2024-03-21 12:23:26-Sorting all grades.
+2024-03-21 12:24:28-Sorting all grades.
+2024-03-21 12:24:48-Sorting all grades.
+2024-03-21 12:25:52-Sorting all grades.
+2024-03-21 13:13:43-Sorting all grades.
+2024-03-21 13:15:29-Sorting all grades.
+2024-03-21 13:15:56-Sorting all grades.
+2024-03-21 13:16:38-Sorting all grades.
+2024-03-21 13:17:14-Sorting all grades.
+2024-03-21 13:18:16-Sorting all grades.
+2024-03-21 13:19:00-Sorting all grades.
+2024-03-21 13:21:20-Sorting all grades.
+2024-03-21 13:23:03-Sorting all grades.
+2024-03-21 13:23:36-Sorting all grades.
+2024-03-21 13:28:45-Usage printed.
+2024-03-21 13:28:45-Usage printed.
+2024-03-21 13:28:45-Usage printed.
+2024-03-21 13:28:45-Usage printed.
+2024-03-21 13:28:45-Usage printed.
+2024-03-21 13:28:45-Usage printed.
+2024-03-21 13:28:45-Usage printed.
+2024-03-21 13:28:45-Usage printed.
+2024-03-21 13:28:45-Usage printed.
+2024-03-21 13:28:45-Usage printed.
+2024-03-21 13:35:37-Sorting all grades.
+2024-03-21 13:36:06-Sorting all grades.
+2024-03-21 13:36:37-Sorting all grades.
+2024-03-21 13:37:45-Sorting all grades.
+2024-03-21 13:44:30-Sorting all grades.
+2024-03-21 13:45:07-Sorting all grades.
+2024-03-21 13:45:21-Sorting all grades.
+2024-03-21 13:45:48-Sorting all grades.
+2024-03-21 13:47:22-Usage printed.
+2024-03-21 13:47:22-Usage printed.
+2024-03-21 13:47:22-Usage printed.
+2024-03-21 13:47:22-Usage printed.
+2024-03-21 13:47:22-Usage printed.
+2024-03-21 13:47:22-Usage printed.
+2024-03-21 13:47:22-Usage printed.
+2024-03-21 13:47:22-Usage printed.
+2024-03-21 13:47:22-Usage printed.
+2024-03-21 13:47:22-Usage printed.
+2024-03-21 13:47:22-Usage printed.
+2024-03-21 13:47:22-Usage printed.
+2024-03-21 13:47:47-Sorting all grades.
+2024-03-21 13:50:42-Sorting all grades.
+2024-03-21 13:52:09-Sorting all grades.
+2024-03-21 13:52:52-Sorting all grades.
+2024-03-21 17:23:51-Sorting all grades.
+2024-03-21 17:28:22-Sorting all grades.
+2024-03-21 17:29:33-Sorting all grades.
+2024-03-21 17:30:02-Sorting all grades.
+2024-03-21 17:31:25-Sorting all grades.
+2024-03-21 17:32:34-Sorting all grades.
+2024-03-21 17:33:13-Sorting all grades.
+2024-03-21 17:33:38-Sorting all grades.
+2024-03-21 17:33:44-Sorting all grades.
+2024-03-21 17:34:06-Sorting all grades.
+2024-03-21 17:34:25-Sorting all grades.
+2024-03-21 17:34:35-Sorting all grades.
+2024-03-21 17:34:53-Sorting all grades.
+2024-03-21 17:35:14-Sorting all grades.
+2024-03-21 17:35:23-Sorting all grades.
+2024-03-21 17:36:53-Sorting all grades.
+2024-03-21 17:38:20-Sorting all grades.
+2024-03-21 17:59:44-Adding student grade.
+2024-03-21 17:59:44-Student grade added successfully.
+2024-03-21 17:59:56-Adding student grade.
+2024-03-21 17:59:56-Error while opening the file.(addStudentGrade)
+2024-03-21 17:59:59-Error: Invalid command.
+2024-03-21 17:59:59-Usage printed.
+2024-03-21 18:00:11-Adding student grade.
+2024-03-21 18:00:11-Student grade added successfully.
+2024-03-21 18:15:04-Usage printed.
+2024-03-21 18:15:04-Usage printed.
+2024-03-21 18:15:06-Error: Invalid command.
+2024-03-21 18:15:06-Usage printed.
+2024-03-21 18:15:12-Usage printed.
+2024-03-21 18:15:12-Usage printed.
+2024-03-21 18:15:44-Adding student grade.
+2024-03-21 18:15:44-Error while opening the file.(addStudentGrade)
+2024-03-21 18:17:20-Usage printed.
+2024-03-21 18:17:20-Usage printed.
+2024-03-21 18:17:33-Adding student grade.
+2024-03-21 18:17:33-Error while opening the file.(addStudentGrade)
+2024-03-21 18:22:24-Exiting.
+2024-03-21 18:22:26-Error: Invalid command.
+2024-03-21 18:22:26-Usage printed.
+2024-03-21 18:22:28-Exiting.
+2024-03-21 18:23:15-Exiting.
+2024-03-21 18:23:18-Usage printed.
+2024-03-21 18:23:18-Usage printed.
+2024-03-21 18:23:20-Exiting.
+2024-03-21 18:39:43-Usage printed.
+2024-03-21 18:39:43-Error reading from stdin.
+2024-03-21 18:39:43-Usage printed.
+2024-03-21 18:39:43-Error reading from stdin.
+2024-03-21 18:40:05-Adding student grade.
+2024-03-21 18:46:17-Adding student grade.
+2024-03-21 18:46:17-Student grade added successfully.
+2024-03-21 18:46:20-Error: Invalid command.
+2024-03-21 18:46:20-Usage printed.
+2024-03-21 18:46:22-Adding student grade.
+2024-03-21 18:46:22-Student grade added successfully.
+2024-03-21 18:46:24-Error: Invalid command.
+2024-03-21 18:46:24-Usage printed.
+2024-03-21 18:46:30-Adding student grade.
+2024-03-21 18:46:30-Student grade added successfully.
+2024-03-21 18:46:50-Adding student grade.
+2024-03-21 18:46:50-Student grade added successfully.
+2024-03-21 18:47:15-Adding student grade.
+2024-03-21 18:47:15-Student grade added successfully.
+2024-03-21 18:47:28-Adding student grade.
+2024-03-21 18:47:28-Student grade added successfully.
+2024-03-21 18:47:36-Adding student grade.
+2024-03-21 18:47:36-Student grade added successfully.
+2024-03-21 18:48:01-Adding student grade.
+2024-03-21 18:48:01-Student grade added successfully.
+2024-03-21 18:49:31-Adding student grade.
+2024-03-21 18:49:31-Student grade added.2024-03-21 18:50:48-Adding student grade.
+2024-03-21 18:50:48-Student grade added.2024-03-21 18:51:13-Adding student grade.
+2024-03-21 18:51:13-Student grade added.
+2024-03-22 00:27:37-Searching for student.
+2024-03-22 00:27:37-Student found.
+2024-03-22 00:27:59-Searching for student.
+2024-03-22 00:27:59-Student found.
+2024-03-22 00:28:19-Searching for student.
+2024-03-22 00:34:20-Searching for student.
+2024-03-22 00:34:31-Searching for student.
+2024-03-22 00:35:26-Searching for student.
+2024-03-22 00:35:33-Searching for student.
+2024-03-22 00:35:33-Error: Invalid command.
+2024-03-22 00:35:33-Usage printed.
+2024-03-22 00:35:38-Searching for student.
+2024-03-22 00:35:48-Searching for student.
+2024-03-22 00:35:57-Usage printed.
+2024-03-22 00:35:57-Usage printed.
+2024-03-22 00:36:14-Exiting.
+2024-03-22 00:36:35-Error reading from stdin.
+2024-03-22 00:36:35-Usage printed.
+2024-03-22 00:36:35-Usage printed.
+2024-03-22 00:36:35-Error reading from stdin.
+2024-03-22 00:36:40-Searching for student.
+2024-03-22 00:36:54-Searching for student.
+2024-03-22 00:37:12-Searching for student.
+2024-03-22 00:37:53-Searching for student.
+2024-03-22 00:38:11-Searching for student.
+2024-03-22 00:38:31-Searching for student.
+2024-03-22 00:38:34-Searching for student.
+2024-03-22 00:39:03-Searching for student.
+2024-03-22 00:39:38-Searching for student.
+2024-03-22 00:40:07-Searching for student.
+2024-03-22 00:40:07-Student found.
+2024-03-22 00:40:29-Searching for student.
+2024-03-22 00:40:29-Student found.
+2024-03-22 00:40:40-Searching for student.
+2024-03-22 00:40:40-Student found.
+2024-03-22 00:42:11-Searching for student.
+2024-03-22 00:42:11-Student found.
+2024-03-22 00:42:19-Searching for student.
+2024-03-22 00:42:19-Student found.
+2024-03-22 00:43:16-Searching for student.
+2024-03-22 00:43:16-Student found.
+2024-03-22 00:43:26-Searching for student.
+2024-03-22 00:43:30-Searching for student.
+2024-03-22 00:43:30-Student found.
+2024-03-22 00:44:39-Searching for student.
+2024-03-22 00:45:03-Searching for student.
+2024-03-22 00:46:04-Searching for student.
+2024-03-22 00:47:24-Searching for student.
+2024-03-22 00:47:45-Searching for student.
+2024-03-22 00:48:18-Searching for student.
+2024-03-22 00:48:27-Searching for student.
+2024-03-22 00:48:33-Searching for student.
+2024-03-22 00:48:33-Student found.
+2024-03-22 00:48:39-Searching for student.
+2024-03-22 00:48:39-Student found.
+2024-03-22 00:48:45-Searching for student.
+2024-03-22 00:48:45-Student found.
+2024-03-22 00:48:50-Searching for student.
+2024-03-22 00:48:50-Student found.
+2024-03-22 00:48:53-Searching for student.
+2024-03-22 00:48:53-Student found.
+2024-03-22 00:48:56-Searching for student.
+2024-03-22 00:48:58-Searching for student.
+2024-03-22 00:48:59-Searching for student.
+2024-03-22 00:48:59-Student found.
+2024-03-22 00:49:51-Searching for student.
+2024-03-22 00:50:48-Searching for student.
+2024-03-22 00:51:17-Searching for student.
+2024-03-22 00:51:21-Searching for student.
+2024-03-22 00:51:21-Searching for student.
+2024-03-22 00:51:21-Student found.
+2024-03-22 00:51:59-Searching for student.
+2024-03-22 00:52:02-Searching for student.
+2024-03-22 00:52:03-Searching for student.
+2024-03-22 00:52:03-Student found.
+2024-03-22 00:52:14-Searching for student.
+2024-03-22 00:52:20-Searching for student.
+2024-03-22 00:52:20-Student found.
+2024-03-22 00:52:29-Searching for student.
+2024-03-22 00:52:29-Student found.
+2024-03-22 00:53:06-Searching for student.
+2024-03-22 00:53:10-Error: Invalid command.
+2024-03-22 00:53:10-Usage printed.
+2024-03-22 00:53:22-Searching for student.
+2024-03-22 00:53:24-Searching for student.
+2024-03-22 00:53:25-Searching for student.
+2024-03-22 00:53:25-Searching for student.
+2024-03-22 00:53:26-Searching for student.
+2024-03-22 00:53:27-Error: Invalid command.
+2024-03-22 00:53:27-Usage printed.
+2024-03-22 00:53:28-Searching for student.
+2024-03-22 00:53:29-Searching for student.
+2024-03-22 00:53:35-Searching for student.
+2024-03-22 00:53:35-Student found.
+2024-03-22 00:53:43-Searching for student.
+2024-03-22 00:53:51-Usage printed.
+2024-03-22 00:53:51-Usage printed.
+2024-03-22 00:53:52-Usage printed.
+2024-03-22 00:53:52-Usage printed.
+2024-03-22 00:53:52-Usage printed.
+2024-03-22 00:53:52-Usage printed.
+2024-03-22 00:53:53-Usage printed.
+2024-03-22 00:53:53-Usage printed.
+2024-03-22 00:53:53-Usage printed.
+2024-03-22 00:53:53-Usage printed.
+2024-03-22 00:53:53-Usage printed.
+2024-03-22 00:53:53-Usage printed.
+2024-03-22 00:53:54-Usage printed.
+2024-03-22 00:53:54-Usage printed.
+2024-03-22 00:55:03-Searching for student.
+2024-03-22 00:55:14-Searching for student.
+2024-03-22 00:55:14-Student found.
+2024-03-22 00:55:19-Searching for student.
+2024-03-22 00:55:19-Student found.
+2024-03-22 00:55:29-Searching for student.
+2024-03-22 00:55:37-Searching for student.
+2024-03-22 00:56:02-Searching for student.
+2024-03-22 00:56:07-Searching for student.
+2024-03-22 00:56:09-Searching for student.
+2024-03-22 00:56:09-Student found.
+2024-03-22 00:56:10-Searching for student.
+2024-03-22 00:56:11-Searching for student.
+2024-03-22 00:56:11-Student found.
+2024-03-22 00:56:12-Searching for student.
+2024-03-22 00:56:12-Student found.
+2024-03-22 00:56:13-Searching for student.
+2024-03-22 00:56:13-Student found.
+2024-03-22 00:56:13-Searching for student.
+2024-03-22 00:56:32-Searching for student.
+2024-03-22 00:56:32-Student found.
+2024-03-22 00:56:37-Searching for student.
+2024-03-22 00:56:37-Student found.
+2024-03-22 00:56:41-Searching for student.
+2024-03-22 00:56:41-Student found.
+2024-03-22 00:56:45-Searching for student.
+2024-03-22 00:56:45-Student found.
+2024-03-22 00:56:49-Searching for student.
+2024-03-22 00:56:49-Student found.
+2024-03-22 00:56:54-Searching for student.
+2024-03-22 00:56:54-Student found.
+2024-03-22 00:56:57-Searching for student.
+2024-03-22 00:56:57-Student found.
+2024-03-22 00:57:02-Searching for student.
+2024-03-22 00:57:06-Searching for student.
+2024-03-22 00:57:06-Student found.
+2024-03-22 00:57:09-Searching for student.
+2024-03-22 00:57:58-Searching for student.
+2024-03-22 00:58:11-Searching for student.
+2024-03-22 00:58:13-Searching for student.
+2024-03-22 00:58:13-Student found.
+2024-03-22 00:58:45-Searching for student.
+2024-03-22 00:59:08-Searching for student.
+2024-03-22 00:59:09-Searching for student.
+2024-03-22 00:59:09-Student found.
+2024-03-22 00:59:15-Searching for student.
+2024-03-22 00:59:17-Searching for student.
+2024-03-22 00:59:18-Searching for student.
+2024-03-22 00:59:18-Student found.
+2024-03-22 01:02:27-Searching for student.
+2024-03-22 01:02:29-Searching for student.
+2024-03-22 01:02:29-Searching for student.
+2024-03-22 01:02:30-Searching for student.
+2024-03-22 01:02:30-Searching for student.
+2024-03-22 01:02:31-Searching for student.
+2024-03-22 01:02:32-Searching for student.
+2024-03-22 01:02:32-Searching for student.
+2024-03-22 01:02:33-Searching for student.
+2024-03-22 01:02:37-Searching for student.
+2024-03-22 01:02:37-Student found.
+2024-03-22 01:02:41-Searching for student.
+2024-03-22 01:02:41-Student found.
+2024-03-22 01:02:44-Searching for student.
+2024-03-22 01:02:44-Student found.
+2024-03-22 01:02:51-Searching for student.
+2024-03-22 01:02:56-Searching for student.
+2024-03-22 01:03:00-Searching for student.
+2024-03-22 01:03:25-Searching for student.
+2024-03-22 01:03:25-Searching for student.
+2024-03-22 01:03:26-Searching for student.
+2024-03-22 01:03:26-Student found.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:04:49-Usage printed.
+2024-03-22 01:05:03-Searching for student.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:20-Usage printed.
+2024-03-22 01:06:40-Searching for student.
+2024-03-22 01:07:29-Searching for student.
+2024-03-22 01:08:53-Searching for student.
+2024-03-22 01:16:20-Searching for student.
+2024-03-22 01:16:20-Student found.
+2024-03-22 01:16:27-Searching for student.
+2024-03-22 01:16:27-Student found.
+2024-03-22 01:16:32-Searching for student.
+2024-03-22 01:16:32-Student found.
+2024-03-22 01:16:36-Searching for student.
+2024-03-22 01:16:36-Student found.
+2024-03-22 01:16:39-Searching for student.
+2024-03-22 01:16:39-Student found.
+2024-03-22 01:18:43-Searching for student.
+2024-03-22 01:18:43-Student found.
+2024-03-22 01:18:59-Searching for student.
+2024-03-22 01:18:59-Student found.
+2024-03-22 01:24:38-Searching for student.
+2024-03-22 01:29:34-Error: Invalid command.
+2024-03-22 01:29:34-Usage printed.
+2024-03-22 13:00:32-Usage printed.
+2024-03-22 13:00:32-Usage printed.
+2024-03-22 13:00:38-Showing all students.
+2024-03-22 13:00:38-All students and their grades listed.
+2024-03-22 13:00:47-Showing all students.
+2024-03-22 13:00:47-Error while opening the file.(showAll)
+2024-03-22 13:00:49-Error: Invalid command.
+2024-03-22 13:00:49-Usage printed.
+2024-03-22 13:01:17-Showing all students.
+2024-03-22 13:01:17-Error while opening the file.(showAll)
+2024-03-22 13:01:27-Usage printed.
+2024-03-22 13:01:27-Usage printed.
+2024-03-22 13:03:17-Showing all students.
+2024-03-22 13:03:17-Error while opening the file.(showAll)
+2024-03-22 13:05:22-Error reading from stdin.
+2024-03-22 13:05:22-Error reading from stdin.
+2024-03-22 17:46:38-Usage printed.
+2024-03-22 17:46:38-Usage printed.
+2024-03-22 17:47:26-Usage printed.
+2024-03-22 17:47:26-Usage printed.
+2024-03-22 17:47:44-Usage printed.
+2024-03-22 17:47:44-Usage printed.
+2024-03-22 18:12:09-Sorting all grades.
+2024-03-22 18:28:39-Usage printed.
+2024-03-22 18:28:39-Usage printed.
+2024-03-22 18:29:21-Exiting.
+2024-03-22 18:30:15-Usage printed.
+2024-03-22 18:30:15-Usage printed.
+2024-03-22 18:30:26-Creating file.
+2024-03-22 18:30:26-File created successfully.
+2024-03-22 18:32:02-Creating file.
+2024-03-22 18:32:02-File already exists.2024-03-22 18:52:40-Adding student grade.
+2024-03-22 18:52:40-Error while opening the file.(addStudentGrade)
+2024-03-22 18:53:28-Adding student grade.
+2024-03-22 18:53:28-Student grade added.
+2024-03-22 18:53:38-Adding student grade.
+2024-03-22 18:53:38-Student grade added.
+2024-03-22 18:54:52-Searching for student.
+2024-03-22 18:54:52-Error while opening the file.(searchStudent)
+2024-03-22 18:56:16-Searching for student.
+2024-03-22 18:57:00-Searching for student.
+2024-03-22 18:57:03-Searching for student.
+2024-03-22 18:57:03-Searching for student.
+2024-03-22 18:57:04-Searching for student.
+2024-03-22 18:57:04-Searching for student.
+2024-03-22 18:57:05-Searching for student.
+2024-03-22 18:57:12-Searching for student.
+2024-03-22 18:57:12-Student found.
+2024-03-22 18:57:32-Searching for student.
+2024-03-22 18:57:40-Searching for student.
+2024-03-22 18:57:40-Student found.
+2024-03-22 18:57:45-Searching for student.
+2024-03-22 18:57:45-Student found.
+2024-03-22 18:57:49-Searching for student.
+2024-03-22 18:57:49-Student found.
+2024-03-22 18:57:52-Searching for student.
+2024-03-22 18:57:53-Searching for student.
+2024-03-22 18:58:31-Searching for student.
+2024-03-22 18:58:31-Student found.
+2024-03-22 18:58:54-Searching for student.
+2024-03-22 18:59:12-Searching for student.
+2024-03-22 18:59:27-Searching for student.
+2024-03-22 18:59:28-Searching for student.
+2024-03-22 18:59:34-Searching for student.
+2024-03-22 19:02:11-Usage printed.
+2024-03-22 19:02:11-Usage printed.
+2024-03-22 19:02:21-Searching for student.
+2024-03-22 19:02:21-Student found.
+2024-03-22 19:02:29-Searching for student.
+2024-03-22 19:02:31-Error: Invalid command.
+2024-03-22 19:02:31-Usage printed.
+2024-03-22 19:02:39-Searching for student.
+2024-03-22 19:02:48-Searching for student.
+2024-03-22 19:02:54-Searching for student.
+2024-03-22 19:03:03-Searching for student.
+2024-03-22 19:03:12-Searching for student.
+2024-03-22 19:03:24-Searching for student.
+2024-03-22 19:03:24-Student found.
+2024-03-22 19:03:30-Searching for student.
+2024-03-22 19:03:53-Searching for student.
+2024-03-22 19:03:53-Student found.
+2024-03-22 20:04:22-Searching for student.
+2024-03-22 20:04:22-Student found.
+2024-03-22 20:04:31-Searching for student.
+2024-03-22 20:04:31-Student found.
+2024-03-22 20:04:41-Searching for student.
+2024-03-22 20:05:31-Searching for student.
+2024-03-22 20:06:09-Searching for student.
+2024-03-22 20:07:18-Searching for student.
+2024-03-22 20:08:37-Searching for student.
+2024-03-22 20:09:07-Searching for student.
+2024-03-22 20:09:46-Searching for student.
+2024-03-22 20:10:00-Searching for student.
+2024-03-22 20:10:30-Searching for student.
+2024-03-22 20:10:31-Usage printed.
+2024-03-22 20:10:31-Usage printed.
+2024-03-22 20:10:34-Exiting.
+2024-03-22 20:25:51-Error reading from stdin.
+2024-03-22 20:25:51-Usage printed.
+2024-03-22 20:25:51-Usage printed.
+2024-03-22 20:25:51-Error reading from stdin.
+2024-03-22 20:25:56-Searching for student.
+2024-03-22 20:26:23-Searching for student.
+2024-03-22 20:27:00-Searching for student.
+2024-03-22 20:27:20-Searching for student.
+2024-03-22 20:27:35-Searching for student.
+2024-03-22 20:27:35-Student found.
+2024-03-22 20:27:40-Searching for student.
+2024-03-22 20:27:40-Student found.
+2024-03-22 20:27:45-Searching for student.
+2024-03-22 20:28:44-Searching for student.
+2024-03-22 20:29:31-Searching for student.
+2024-03-22 20:29:52-Searching for student.
+2024-03-22 20:30:07-Searching for student.
+2024-03-22 20:30:55-Searching for student.
+2024-03-22 20:31:20-Searching for student.
+2024-03-22 20:31:23-Error: Invalid command.
+2024-03-22 20:31:23-Usage printed.
+2024-03-22 20:31:25-Error: Invalid command.
+2024-03-22 20:31:25-Usage printed.
+2024-03-22 20:31:25-Error: Invalid command.
+2024-03-22 20:31:25-Usage printed.
+2024-03-22 20:31:26-Error: Invalid command.
+2024-03-22 20:31:26-Usage printed.
+2024-03-22 20:31:35-Searching for student.
+2024-03-22 20:31:59-Searching for student.
+2024-03-22 20:32:24-Searching for student.
+2024-03-22 20:32:38-Error reading from stdin.
+2024-03-22 20:39:16-Searching for student.
+2024-03-22 20:39:16-Student found.
+2024-03-22 20:39:28-Searching for student.
+2024-03-22 20:39:48-Searching for student.
+2024-03-22 20:39:48-Student found.
+2024-03-22 20:39:55-Searching for student.
+2024-03-22 20:40:36-Searching for student.
+2024-03-22 20:40:36-Student found.
+2024-03-22 20:40:41-Searching for student.
+2024-03-22 20:40:55-Searching for student.
+2024-03-22 20:40:55-Student found.
+2024-03-22 20:41:00-Searching for student.
+2024-03-22 20:41:33-Searching for student.
+2024-03-22 20:41:33-Student found.
+2024-03-22 20:41:36-Searching for student.
+2024-03-22 20:42:15-Searching for student.
+2024-03-22 20:42:55-Searching for student.
+2024-03-22 20:43:45-Searching for student.
+2024-03-22 20:44:53-Searching for student.
+2024-03-22 20:45:35-Searching for student.
+2024-03-22 20:46:24-Searching for student.
+2024-03-22 20:46:54-Searching for student.
+2024-03-22 20:46:54-Student found.
+2024-03-22 20:47:29-Searching for student.
+2024-03-22 20:47:40-Searching for student.
+2024-03-22 20:48:02-Searching for student.
+2024-03-22 20:48:39-Searching for student.
+2024-03-22 20:49:06-Searching for student.
+2024-03-22 20:49:51-Searching for student.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Error: Invalid command.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Error: Invalid command.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:41-Usage printed.
+2024-03-22 20:51:44-Exiting.
+2024-03-22 20:52:05-Searching for student.
+2024-03-22 20:52:05-Student found.
+2024-03-22 20:52:15-Searching for student.
+2024-03-22 20:53:08-Searching for student.
+2024-03-22 20:53:08-Student found.
+2024-03-22 20:53:14-Searching for student.
+2024-03-22 20:53:14-Student found.
+2024-03-22 20:53:25-Searching for student.
+2024-03-22 20:53:38-Searching for student.
+2024-03-22 20:54:00-Searching for student.
+2024-03-22 20:54:00-Student found.
+2024-03-22 20:54:17-Searching for student.
+2024-03-22 20:54:17-Student found.
+2024-03-22 20:54:29-Searching for student.
+2024-03-22 20:54:33-Searching for student.
+2024-03-22 20:54:41-Searching for student.
+2024-03-22 20:54:41-Student found.
+2024-03-22 20:55:03-Adding student grade.
+2024-03-22 20:55:03-Student grade added.
+2024-03-22 20:55:06-Searching for student.
+2024-03-22 20:55:08-Searching for student.
+2024-03-22 20:55:08-Searching for student.
+2024-03-22 20:55:09-Searching for student.
+2024-03-22 20:55:09-Searching for student.
+2024-03-22 20:55:10-Searching for student.
+2024-03-22 20:55:11-Searching for student.
+2024-03-22 20:55:26-Searching for student.
+2024-03-22 20:55:43-Searching for student.
+2024-03-22 20:55:43-Student found.
+2024-03-22 20:55:57-Searching for student.
+2024-03-22 20:55:57-Student found.
+2024-03-22 20:56:15-Searching for student.
+2024-03-22 20:56:15-Student found.
+2024-03-22 20:56:21-Searching for student.
+2024-03-22 20:56:21-Student found.
+2024-03-22 20:56:26-Searching for student.
+2024-03-22 20:56:35-Searching for student.
+2024-03-22 20:57:34-Searching for student.
+2024-03-22 20:57:55-Searching for student.
+2024-03-22 20:58:18-Searching for student.
+2024-03-22 20:58:39-Searching for student.
+2024-03-22 20:58:39-Student found.
+2024-03-22 20:58:49-Searching for student.
+2024-03-22 20:58:57-Searching for student.
+2024-03-22 20:59:03-Searching for student.
+2024-03-22 20:59:14-Searching for student.
+2024-03-22 20:59:29-Searching for student.
+2024-03-22 20:59:39-Searching for student.
+2024-03-22 20:59:47-Searching for student.
+2024-03-22 20:59:52-Searching for student.
+2024-03-22 21:00:02-Searching for student.
+2024-03-22 21:00:07-Searching for student.
+2024-03-22 21:00:14-Searching for student.
+2024-03-22 21:00:15-Searching for student.
+2024-03-22 21:00:17-Searching for student.
+2024-03-22 21:00:27-Searching for student.
+2024-03-22 21:00:32-Searching for student.
+2024-03-22 21:00:47-Searching for student.
+2024-03-22 21:00:52-Searching for student.
+2024-03-22 21:00:52-Student found.
+2024-03-22 21:01:12-Adding student grade.
+2024-03-22 21:01:12-Student grade added.
+2024-03-22 21:01:26-Searching for student.
+2024-03-22 21:01:26-Student found.
+2024-03-22 21:02:21-Searching for student.
+2024-03-22 21:02:21-Error while opening the file.(searchStudent)
+2024-03-22 21:02:26-Searching for student.
+2024-03-22 21:02:26-Error while opening the file.(searchStudent)
+2024-03-22 21:02:42-Searching for student.
+2024-03-22 21:02:42-Student found.
+2024-03-22 21:03:06-Searching for student.
+2024-03-22 21:03:06-Error while opening the file.(searchStudent)
+2024-03-22 21:03:17-Searching for student.
+2024-03-22 21:03:17-Student found.
+2024-03-22 21:03:31-Searching for student.
+2024-03-22 21:03:58-Usage printed.
+2024-03-22 21:03:58-Usage printed.
+2024-03-22 21:04:06-Usage printed.
+2024-03-22 21:04:06-Usage printed.
+2024-03-22 21:05:10-Listing grades.
+2024-03-22 21:05:10-Error while opening the file.(listGrades)
+2024-03-22 21:05:20-Listing grades.
+2024-03-22 21:05:20-First 5 entries listed.
+2024-03-22 21:05:45-Usage printed.
+2024-03-22 21:05:45-Usage printed.
+2024-03-22 21:05:56-Showing all students.
+2024-03-22 21:05:56-All students and their grades listed.
+2024-03-22 21:06:06-Showing all students.
+2024-03-22 21:06:06-Error while opening the file.(showAll)
+2024-03-22 21:07:24-Error: Invalid command.
+2024-03-22 21:07:24-Usage printed.
+2024-03-22 21:07:39-Listing some grades.
+2024-03-22 21:07:39-Error while opening the file.(listSome)
+2024-03-22 21:07:41-Error: Invalid command.
+2024-03-22 21:07:41-Usage printed.
+2024-03-22 21:07:56-Listing some grades.
+2024-03-22 21:07:56-Listed the entries.
+2024-03-22 21:08:23-Forked successfully.2024-03-22 21:09:01-Sorting all grades.
